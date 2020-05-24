@@ -32,8 +32,7 @@ All of the programs are all expenses paid.
 | [Blackrock Find Your Future Forum - Tech](https://blackrock.tal.net/vx/mobile-1/brand-3/candidate/so/pm/1/pl/2/opp/3806-2020-Find-Your-Future-Forum/en-GB) | Learn how to jump start your career at BlackRock’s one-day educational program for college sophomores. | February |
 | Google Hispanic Leadership Summit | Google's HSLS was created as an effort to bring Latinx leaders together to share innovative and creative best practices with one another, as well as collaborate with Google's Latinx leadership to benefit your university, organization, and community. | February |
 | [MongoDB Women in CS Summit](https://mongodbswicssummit2020.splashthat.com) | The summit is an inspiring day filled with technical workshops, professional development activities, and networking for undergraduates studying computer science who identify as women. | February |
-| [Square Code Camp](https://squareup.com/us/en/code-camp) | Dive into a five-day immersion program
-developed to ignite and inspire future women engineers and further their pursuit of a career in computer science. | July |
+| [Square Code Camp](https://squareup.com/us/en/code-camp) | Dive into a five-day immersion program developed to ignite and inspire future women engineers and further their pursuit of a career in computer science. | July |
 | [Twitter Develop Her](https://twitterudiversity.splashthat.com) | Sophomore female CS students. | March |
 | [Twitter Early Bird](https://twitterudiversity.splashthat.com) | Freshman CS students. | March |
 | [Google Bold Immersion Program](https://buildyourfuture.withgoogle.com/programs/bold-immersion/) | The Building Opportunities for Leadership and Development (BOLD) Immersion program gives students the opportunity to immerse themselves in a culture where great minds, cutting-edge technology and smart business intersect to make a difference — each and every day. Sophomores. | January |
