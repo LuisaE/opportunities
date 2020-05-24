@@ -63,6 +63,7 @@ All of the programs are all expenses paid.
 ## Coding interview resources
 
 | Name | Description | 
+| --- | --- | 
 | [Leetcode](https://leetcode.com) | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. LeetCode free is enough. | 
 | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) | Book with good resources. The Career Center has one that you can borrow |
 | [Interview Cake](https://www.interviewcake.com) | Good Data Structures articles, you can get 3 weeks free with the Github Student Developer Pack |
