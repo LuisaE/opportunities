@@ -1,5 +1,5 @@
 # Opportunities
-List of Finance and CS exploratory/diversity programs, underclassmen internships, interview prep and, mentorship programs. 
+List of CS and Finance exploratory/diversity programs, underclassmen internships, interview prep and, mentorship programs. 
 
 To Contribute:
 
@@ -78,3 +78,12 @@ All of the programs are all expenses paid.
 | [Rewriting the Code](https://rewritingthecode.org/fellowship/) | The Rewriting the Code Fellowship Program is for women undergraduates and masters level students studying computer science and engineering related majors who are interested in gaining applied experience through potential internships or full-time jobs with leading tech companies. | April |
 | [Code 2040 Early Career Accelerator](http://www.code2040.org/early-career-accelerator-program) | Participants will receive socio-emotional, professional, and management development through in-person workshops, mentorship and coaching, and online engagement. In this program, we’ll build community, make space to commiserate, and most importantly, find tactical solutions to the professional and cultural roadblocks we face in the workplace. | September |
 | [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. | October |
+
+## CS Scholarships
+| Name | Description | Approximate Deadline |
+| --- | --- | --- |
+| [Microsoft Tuition Scholarship](https://careers.microsoft.com/students/us/en/usscholarshipprogram) | Microsoft awards tuition and conference scholarships each year to encourage students to further their learnings in Computer Science and related STEM (Science, Technology, Engineering, and Math) disciplines. Recipients for the scholarship will be awarded in recognition of their demonstrated passion for technology, academic excellence, and leadership while working to push the software industry forward. | Summer |
+| [Palantir Future Scholarship](https://www.palantir.com/students/scholarship/future/) | This year, 10 scholarship recipients will be chosen and invited to visit our headquarters in Palo Alto for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded grants of $7,000 to support their education. | March | 
+| [Palantir Women in Tech Scholarship ](https://www.palantir.com/students/scholarship/wit-north-america/) | This year, 10 scholarship recipients will be chosen and invited to visit our Washington, D.C. office for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded $7,000 to support their education. | March | 
+| [Quip Diversity Scholarship](https://quip.com/blog/2020-quip-diversity-scholarship) | The Quip team will review applications, choose winners and runners-up, and then invite them to a full day of learning and mentorship.* Each scholarship winner will receive $5,000 and each runner-up will receive $1,000 toward their education. | June |
+| [New Face of Tech Scholarship Harman 1000 dreams](https://1000dreamsfund.org/programs/new-face-of-tech-scholarship-program/) |  |  |
