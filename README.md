@@ -23,30 +23,30 @@ Submit a Pull Request!
 | Pinterest Engage | Unpaid. |  |
 
 ## CS exploratory/diversity programs
+All of the programs are all expenses paid. 
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
-| Blackrock find your future forum - Futures in tech |  |  |
-| Capital one software engineer summit |  |  |
-| City early ID |  |  | 
-| DE Shaw Fellowships |  |  |
-| Goldman Sachs Engineering essentials |  |  |
-| Google hispanic leadership summit |   |  |
-| Jane Street Women in Tech and Trading |   |  |
-| MongoDB Women in CS Summit |  |  |
-| Piazza Tech Tour |  |  |
-| Spring technology early insight Morgan Stanley |  |  |
-| Square Code Camp |  |  |
-| Twitter Develop Her |  |  |
-| Twitter Early Bird |  |  |
-| Target Diversity Leadership Symposium |  |  |
-| Google Bold Immersion Program |  |  |
-| Discover Bloomberg: Women in Engineering |   |  |
-| Bloomberg Women in Technology Insights Program |  |  |
+| [Goldman Sachs Engineering Essentials](https://www.goldmansachs.com/careers/students/programs/americas/engineering-essentials.html) | Engineering Essentials is a four day program designed to help current college sophomores develop the essentials skills and tools to prepare for a successful career as a software engineer. | March |
+| [Capital One Software Engineer Summit](https://campus.capitalone.com/summits/) | During this one-week program, a small, exceptional group of freshmen and sophomores will be immersed in our startup-minded and innovative culture while exploring and developing the technology and problem-solving skills valued by today’s top employers. If chosen for this highly selective program, you’ll take part in technical and soft-skill training sessions. | Invitation only |
+| [Blackrock Find Your Future Forum - Tech](https://blackrock.tal.net/vx/mobile-1/brand-3/candidate/so/pm/1/pl/2/opp/3806-2020-Find-Your-Future-Forum/en-GB) | Learn how to jump start your career at BlackRock’s one-day educational program for college sophomores. | February |
+| Google Hispanic Leadership Summit | Google's HSLS was created as an effort to bring Latinx leaders together to share innovative and creative best practices with one another, as well as collaborate with Google's Latinx leadership to benefit your university, organization, and community. | February |
+| [MongoDB Women in CS Summit](https://mongodbswicssummit2020.splashthat.com) | The summit is an inspiring day filled with technical workshops, professional development activities, and networking for undergraduates studying computer science who identify as women. | February |
+| [Square Code Camp](https://squareup.com/us/en/code-camp) | Dive into a five-day immersion program
+developed to ignite and inspire future women engineers and further their pursuit of a career in computer science. | July |
+| [Twitter Develop Her](https://twitterudiversity.splashthat.com) | Sophomore female CS students. | March |
+| [Twitter Early Bird](https://twitterudiversity.splashthat.com) | Freshman CS students. | March |
+| [Google Bold Immersion Program](https://buildyourfuture.withgoogle.com/programs/bold-immersion/) | The Building Opportunities for Leadership and Development (BOLD) Immersion program gives students the opportunity to immerse themselves in a culture where great minds, cutting-edge technology and smart business intersect to make a difference — each and every day. Sophomores. | January |
+| [DE Shaw Fellowships](https://fellowships.deshaw.com) | Over the course of three days, fellows participate in a set of unique educational opportunities designed to bring together talented and intellectually curious students and provide them with exposure to what we do at the firm through interactive case studies, seminars led by visiting professors, and sessions with the firm’s own analysts. | Depends on the fellowship |
+| [Jane Street Women in Tech and Trading](https://www.janestreet.com/witt) | Women in Trading and Technology (WiTT) is a three-day programme designed for women in their penultimate year of university as of autumn 2020. Participants will have an exclusive opportunity to explore careers within our firm and attend one of two educational programmes: quantitative trading and software engineering. | June |
+| [Piazza Tech Tour](https://piazza.com/techtour) | All-expenses-paid trip for 10 students to meet with the companies that are changing the world. This is one of many exciting opportunities you’ll have this year on Piazza Careers to interact with companies like Facebook, Quora, Pinterest, Airbnb, Palantir, and many more. | March |
+| [Spring technology early insight Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/2/opp/9425-2020-Spring-Technology-Early-Insights-Day/en-GB) | We invite students who are interested in learning about our 2021 Technology Campus Programs and the world of Technology at Morgan Stanley to apply for an opportunity to attend our Spring Technology Early Insights Event in our New York City office. Participation is limited and selected candidates will be notified directly. | March |
+| Target Diversity Leadership Symposium | Target is hosting an intensive 3-day leadership symposium for up to 40 sophomores at Target Headquarters. The symposium will focus on diversity and inclusion, development, the retail industry, and internship opportunities at Target. | May |
 
 
 ## CS conferences (and scholarships)
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
-| Grace Hopper Scholarship | | |
+| [Grace Hopper Scholarship](https://ghc.anitab.org) | The GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. | March |
+| [Tapua Conference Scholarship](http://tapiaconference.org) | The Tapia Conference provides conference travel scholarships for students (community college/undergraduate/graduate), and post-docs at colleges/universities in the U.S and U.S. Scholarships include conference registration, meals during the conference, hotel accommodations, and a reimbursable travel stipend. | March |
