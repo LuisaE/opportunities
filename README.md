@@ -3,9 +3,11 @@ List of CS and Finance exploratory/diversity programs, underclassmen internships
 
 To Contribute:
 
-Fork this repository
-Edit README.md and add your posting!
-Submit a Pull Request!
+1. Fork this repository
+2. Edit README.md and add your posting!
+3. Submit a Pull Request!
+
+Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.edu/post-job
 
 ## CS underclassmen/diversity internships
 
@@ -54,12 +56,6 @@ All of the programs are all expenses paid.
 | [Tapia Conference Scholarship](http://tapiaconference.org) | The Tapia Conference provides conference travel scholarships for students (community college/undergraduate/graduate), and post-docs at colleges/universities in the U.S and U.S. Scholarships include conference registration, meals during the conference, hotel accommodations, and a reimbursable travel stipend. | March |
 
 
-## Finance exploratory/diversity programs
-
-| Name | Description | Approximate Deadline |
-| --- | --- | --- |
-
-
 ## Coding interview resources
 
 | Name | Description | 
@@ -86,4 +82,13 @@ All of the programs are all expenses paid.
 | [Palantir Future Scholarship](https://www.palantir.com/students/scholarship/future/) | This year, 10 scholarship recipients will be chosen and invited to visit our headquarters in Palo Alto for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded grants of $7,000 to support their education. | March | 
 | [Palantir Women in Tech Scholarship ](https://www.palantir.com/students/scholarship/wit-north-america/) | This year, 10 scholarship recipients will be chosen and invited to visit our Washington, D.C. office for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded $7,000 to support their education. | March | 
 | [Quip Diversity Scholarship](https://quip.com/blog/2020-quip-diversity-scholarship) | The Quip team will review applications, choose winners and runners-up, and then invite them to a full day of learning and mentorship.* Each scholarship winner will receive $5,000 and each runner-up will receive $1,000 toward their education. | June |
-| [New Face of Tech Scholarship Harman 1000 dreams](https://1000dreamsfund.org/programs/new-face-of-tech-scholarship-program/) |  |  |
+| [New Face of Tech Scholarship Harman 1000 dreams](https://1000dreamsfund.org/programs/new-face-of-tech-scholarship-program/) | | |
+| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/) | Selected students will receive 10,000 USD (for those studying in the US). Scholarships will be awarded based on the strength of each candidate's impact on diversity, demonstrated leadership, and academic background. | Fall |
+| [Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field. | Fall |
+
+
+## Finance exploratory/diversity programs
+
+| Name | Description | Approximate Deadline |
+| --- | --- | --- |
+
