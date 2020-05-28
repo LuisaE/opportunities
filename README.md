@@ -7,7 +7,7 @@ To Contribute:
 2. Edit README.md and add your posting!
 3. Submit a Pull Request!
 
-Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.edu/post-job
+Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.edu/post-job or https://apps.carleton.edu/career/about/events/
 
 ## CS underclassmen/diversity internships
 
@@ -21,9 +21,10 @@ Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.e
 | [Palantir path](https://www.palantir.com/students/path/) | Palantir Path is an internship for sophomores and juniors who are early in their journeys as technologists. Path aims to help students bridge the gap between what you learn in school and what’s necessary to solve the real world’s ambiguous, complex problems. We especially encourage students from communities that are historically underrepresented in STEM to apply | September |
 | [Girls Who Invest Summer Intensive Program](http://www.girlswhoinvest.org/sip) | GWI’s ten-week Summer Intensive Program combines academic instruction and real-world experience.  It is intensive, immersive and an incredible opportunity to explore a career in finance and investment as part of a supportive community. Sophomores. | September | 
 | [Code 2040 Fellows Program](http://www.code2040.org/fellows-program) | The Fellows Program is an intensive career accelerator for Black and Latinx college and graduate-level computer science students. For 9 weeks between June and August, you’ll intern at a top tech company and engage in racial equity advocacy work. You’ll participate in a series of learning experiences designed to give you the tools and resources you need to navigate the tech industry, build a lasting career, and advocate for yourself and your community. | July |
-| Dropbox Launch |  |  |
-| Uber STAR |  |  | 
-| Pinterest Engage | Unpaid. |  |
+| Pinterest Engage | Unpaid. Pinterest Engage is an early identification program for freshman students enrolled in a bachelor’s degree program with a demonstrated interest in majoring in computer science. | January (?) |
+| Dropbox Launch | Dropbox Launch aims to provide you with a 12 week immersive experience at our San Francisco Headquarters. Each Launch intern is paired with a dedicated mentor committed to guiding their learning and development throughout the summer. | December (?) |
+| Uber STAR |  | November (?)  | 
+
 
 ## CS exploratory/diversity programs
 All of the programs are all expenses paid. 
@@ -31,7 +32,7 @@ All of the programs are all expenses paid.
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Goldman Sachs Engineering Essentials](https://www.goldmansachs.com/careers/students/programs/americas/engineering-essentials.html) | Engineering Essentials is a four day program designed to help current college sophomores develop the essentials skills and tools to prepare for a successful career as a software engineer. | March |
-| [Capital One Software Engineer Summit](https://campus.capitalone.com/summits/) | During this one-week program, a small, exceptional group of freshmen and sophomores will be immersed in our startup-minded and innovative culture while exploring and developing the technology and problem-solving skills valued by today’s top employers. If chosen for this highly selective program, you’ll take part in technical and soft-skill training sessions. | Invitation only |
+| [Capital One Software Engineer Summit](https://campus.capitalone.com/summits/) | During this one-week program, a small, exceptional group of freshmen and sophomores will be immersed in our startup-minded and innovative culture while exploring and developing the technology and problem-solving skills valued by today’s top employers. If chosen for this highly selective program, you’ll take part in technical and soft-skill training sessions. | Invitation only (ask a recruiter) |
 | [Blackrock Find Your Future Forum - Tech](https://blackrock.tal.net/vx/mobile-1/brand-3/candidate/so/pm/1/pl/2/opp/3806-2020-Find-Your-Future-Forum/en-GB) | Learn how to jump start your career at BlackRock’s one-day educational program for college sophomores. | February |
 | Google Hispanic Leadership Summit | Google's HSLS was created as an effort to bring Latinx leaders together to share innovative and creative best practices with one another, as well as collaborate with Google's Latinx leadership to benefit your university, organization, and community. | February |
 | [MongoDB Women in CS Summit](https://mongodbswicssummit2020.splashthat.com) | The summit is an inspiring day filled with technical workshops, professional development activities, and networking for undergraduates studying computer science who identify as women. | February |
@@ -45,7 +46,7 @@ All of the programs are all expenses paid.
 | [Spring technology early insight Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/2/opp/9425-2020-Spring-Technology-Early-Insights-Day/en-GB) | We invite students who are interested in learning about our 2021 Technology Campus Programs and the world of Technology at Morgan Stanley to apply for an opportunity to attend our Spring Technology Early Insights Event in our New York City office. Participation is limited and selected candidates will be notified directly. | March |
 | [Code 2040 Tech Trek](http://www.code2040.org/tech-trek) | Tech Trek is designed to address the key factors in the retention and persistence of Black and Latinx computer science/engineering majors’ on the path to becoming thriving technologists and leaders in the innovation economy. The all-expenses paid program connects you with a cohort of 50 Black and Latinx students from across the United States to gain the network, resources, and community needed to launch and sustain your tech career. | July |
 | Target Diversity Leadership Symposium | Target is hosting an intensive 3-day leadership symposium for up to 40 sophomores at Target Headquarters. The symposium will focus on diversity and inclusion, development, the retail industry, and internship opportunities at Target. | May |
-
+| [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| Invitation only (ask a recruiter) |
 
 
 ## CS conferences (and scholarships)
@@ -73,7 +74,7 @@ All of the programs are all expenses paid.
 | --- | --- | --- |
 | [Rewriting the Code](https://rewritingthecode.org/fellowship/) | The Rewriting the Code Fellowship Program is for women undergraduates and masters level students studying computer science and engineering related majors who are interested in gaining applied experience through potential internships or full-time jobs with leading tech companies. | April |
 | [Code 2040 Early Career Accelerator](http://www.code2040.org/early-career-accelerator-program) | Participants will receive socio-emotional, professional, and management development through in-person workshops, mentorship and coaching, and online engagement. In this program, we’ll build community, make space to commiserate, and most importantly, find tactical solutions to the professional and cultural roadblocks we face in the workplace. | September |
-| [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. | October |
+| [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores | October |
 
 ## CS Scholarships
 | Name | Description | Approximate Deadline |
@@ -87,8 +88,29 @@ All of the programs are all expenses paid.
 | [Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field. | Fall |
 
 
-## Finance exploratory/diversity programs
+## Finance+ exploratory/diversity programs
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
-
+| Bain Capital's Women Investors of Tomorrow Summit | Bain Capital's Women Investors of Tomorrow Summit is an exciting program offering sophomore women a unique opportunity to gain exposure to the alternative asset industry. Selected participants will travel to Bain Capital’s Boston office* for an intensive half-day workshop and networking dinner. Sophomores | April |
+| Barclays Sophomore Springboard |  |  |
+| Blackstone Future Women Innovators Program |  |  |
+| City Early ID |  |  |
+| Deloitte National Leadership Conference |  |  |
+| Develop with Deutsche Bank |  |  |
+| Evercore’s Sophomore Diversity Seminar |  |  |
+| Goldman Sachs Diversity Programs |  | November |
+| Jefferies Inspiring Women for finance |  |  |
+| JP Morgan Sophomore Edge |  |  |
+| L'Oréal USA Diverse Future Leaders Sophomore Fellowship |  |  |
+| Lazard Sophomore Women Event |  |  |
+| Moelis Youth Leaders Diversity Program |  |  |
+| Nomura sophomore diversity program |  |  |
+| PJT Partners Underg. Women  |  |  |
+| PNC Lead diversity summit |  |  |
+| RBC Sophomore insights program |  |  |
+| RBC Women Advisory program |  |  |
+| Red Ventures 3 Day Summit |  |  |
+| Rothschild and co women leadership program |  |  |
+| Trading Business Course - New York - Flow traders |  | April |
+| Virtu Financial's Women's Winternship  |  | August |
