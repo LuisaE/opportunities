@@ -53,6 +53,7 @@ All of the programs are all expenses paid.
 | [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| **Invitation only** (ask a recruiter) |
 | Facebook Wayfinder | 3 day, invite only, selective event. | **Invitation only** (ask a recruiter) |
 
+
 ## CS conferences (and scholarships)
 
 | Name | Description | Approximate Deadline |
@@ -119,3 +120,4 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Rothschild and co women leadership program |  |  |
 | Trading Business Course - New York - Flow traders |  | April |
 | Virtu Financial's Women's Winternship  |  | August |
+| Cisco STARS Program | Cisco Finance's summer training academy for rising senios | ? |
