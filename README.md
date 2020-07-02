@@ -7,16 +7,16 @@ Most of the opportunities are for sophomores, quite a lot for freshman, and a fe
 To Contribute:
 
 1. Fork this repository
-2. Edit README.md and add your posting!
-3. Submit a Pull Request!
+2. Edit README.md and add your posting
+3. Submit a Pull Request
 
-Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.edu/post-job or https://apps.carleton.edu/career/about/events/
+Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.edu/calendar or https://apps.carleton.edu/career/about/events/
 
 ## CS underclassmen/diversity internships
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
-| [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Explore Microsoft is a 12-week summer internship program specifically designed for first and second year college students. The program is rotational and allows you to gain experience in our different software engineering roles (SWE + PM). Phone interview + Onsite. | No fixed deadline, apply early! |
+| [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Explore Microsoft is a 12-week summer internship program specifically designed for first and second year college students. The program is rotational and allows you to gain experience in our different software engineering roles (SWE + PM). Phone interview + Onsite. | No fixed deadline, apply early. |
 | [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/) | STEP (Student Training in Engineering Program), is a 12-week internship for first and second-year undergraduate students with a passion for computer science. The internship program has a focus of providing development opportunities to students from groups historically underrepresented in tech, through technical training and professional development. Two phone interviews. | October |
 | [Twitter Academy](https://twitterudiversity.splashthat.com) | A 12-week paid summer internship specifically designed for historically underrepresented second-year computer science students. | November |
 | [FBU](https://www.facebook.com/careers/FBUEngineering) | Facebook University (FBU) for Engineers is a paid eight-week training program designed to provide mobile development experience to students who are historically under-represented in computer science. Hackerrank + Phone interview.  | October |
