@@ -51,7 +51,7 @@ All of the programs are all expenses paid.
 | [Code 2040 Tech Trek](http://www.code2040.org/tech-trek) | Tech Trek is designed to address the key factors in the retention and persistence of Black and Latinx computer science/engineering majors’ on the path to becoming thriving technologists and leaders in the innovation economy. The all-expenses paid program connects you with a cohort of 50 Black and Latinx students from across the United States to gain the network, resources, and community needed to launch and sustain your tech career. | July |
 | Target Diversity Leadership Symposium | Target is hosting an intensive 3-day leadership symposium for up to 40 sophomores at Target Headquarters. The symposium will focus on diversity and inclusion, development, the retail industry, and internship opportunities at Target. | May |
 | [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| **Invitation only** (ask a recruiter) |
-
+| Facebook Wayfinder | 3 day, invite only, selective event. | **Invitation only** (ask a recruiter) |
 
 ## CS conferences (and scholarships)
 
