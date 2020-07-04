@@ -27,6 +27,7 @@ Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.e
 | Pinterest Engage | Unpaid. Pinterest Engage is an early identification program for freshman students enrolled in a bachelor’s degree program with a demonstrated interest in majoring in computer science. | January (?) |
 | Dropbox Launch | Dropbox Launch aims to provide you with a 12 week immersive experience at our San Francisco Headquarters. Each Launch intern is paired with a dedicated mentor committed to guiding their learning and development throughout the summer. | December (?) |
 | Uber STAR |  | November (?)  | 
+| Visa Sophomore Internship Program | This program is aimed at helping current sophomores develop a foundation in Technology for the rest of their careers. The Sophomore Internship Experience is an 8 week hands on, immersive internship program that enables students from underrepresented communities to get to know Visa’s products, people and culture. | -
 
 
 ## CS exploratory/diversity programs
@@ -52,7 +53,7 @@ All of the programs are all expenses paid.
 | Target Diversity Leadership Symposium | Target is hosting an intensive 3-day leadership symposium for up to 40 sophomores at Target Headquarters. The symposium will focus on diversity and inclusion, development, the retail industry, and internship opportunities at Target. | May |
 | [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| **Invitation only** (ask a recruiter) |
 | Facebook Wayfinder | 3 day, invite only, selective event. | **Invitation only** (ask a recruiter) |
-|[Google Summer Of Code] (https://summerofcode.withgoogle.com/) | The Google Summer of Code, often abbreviated to GSoC, is an international annual program in which Google awards stipends to students who successfully complete a free and open-source software coding project during the summer. The program is open to university students aged 18 or over. | May |
+|[Google Summer Of Code](https://summerofcode.withgoogle.com/) | The Google Summer of Code, often abbreviated to GSoC, is an international annual program in which Google awards stipends to students who successfully complete a free and open-source software coding project during the summer. The program is open to university students aged 18 or over. | May |
 
 ## CS conferences (and scholarships)
 
