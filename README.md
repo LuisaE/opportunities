@@ -123,3 +123,11 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Virtu Financial's Women's Winternship  |  | August |
 | Cisco STARS Program | Cisco Finance's summer training academy for rising seniors | ? |
 | Two Sigma New Seekers Summit | Quantitative finance and research summit. | ? |
+
+
+## Bonus: Resume + Tips
+
+1. Create a Linkedin and a GitHub and add some projects. 
+2. Read this resume guide and update your resume: [How to Write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub?fbclid=IwAR0HLo_mONStDfwLuDcYo2eexckwo5VKM2L4Lh5O4hcQnVfjUU5RrZJ-2bM)
+3. Go to the career center and ask them to check your resume, or ask someone you know to check it for you. 
+5. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
