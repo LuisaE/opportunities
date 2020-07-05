@@ -121,4 +121,5 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Rothschild and co women leadership program |  |  |
 | Trading Business Course - New York - Flow traders |  | April |
 | Virtu Financial's Women's Winternship  |  | August |
-| Cisco STARS Program | Cisco Finance's summer training academy for rising senios | ? |
+| Cisco STARS Program | Cisco Finance's summer training academy for rising seniors | ? |
+| Two Sigma New Seekers Summit | Quantitative finance and research summit. | ? |
