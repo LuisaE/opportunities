@@ -123,7 +123,8 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Virtu Financial's Women's Winternship  |  | August |
 | Cisco STARS Program | Cisco Finance's summer training academy for rising seniors | ? |
 | Two Sigma New Seekers Summit | Quantitative finance and research summit. | ? |
-
+| Finance Leaders in Technology Workshop | Finance Leaders in Technology Workshop is a 3-day summer program held at our Microsoft Redmond Campus - sophomores. | April |
+| [Freshman Diversity Leadership Academy - McKinsey](https://www.mckinsey.com/careers/students/freshman-diversity-leadership-academy/overview) | FDLA is an exclusive two-day workshop during which attendees explore the potential of a career in consulting and refine their problem-solving and leadership skills. Through interactive activities, case workshops, panels, and networking events, attendees will learn about our work, culture, and people. | February |
 
 ## Bonus: Resume + Tips
 
