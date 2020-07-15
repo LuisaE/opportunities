@@ -125,6 +125,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Two Sigma New Seekers Summit | Quantitative finance and research summit. | ? |
 | Finance Leaders in Technology Workshop | Finance Leaders in Technology Workshop is a 3-day summer program held at our Microsoft Redmond Campus - sophomores. | April |
 | [Freshman Diversity Leadership Academy - McKinsey](https://www.mckinsey.com/careers/students/freshman-diversity-leadership-academy/overview) | FDLA is an exclusive two-day workshop during which attendees explore the potential of a career in consulting and refine their problem-solving and leadership skills. Through interactive activities, case workshops, panels, and networking events, attendees will learn about our work, culture, and people. | February |
+| [Bridge to consulting](https://www.bcg.com/en-us/careers/working-at-bcg/bridge-to-consulting.aspx) | The Bridge to Consulting Workshop and Externship Program allows freshman and sophomore students from underrepresented minority groups, specifically Black/African American, Hispanic/Latino, and Native American/Alaska Native to experience BC | March |
 
 ## Bonus: Resume + Tips
 
