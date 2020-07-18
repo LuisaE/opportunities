@@ -96,7 +96,7 @@ All of the programs are all expenses paid.
 | [New Face of Tech Scholarship Harman 1000 dreams](https://1000dreamsfund.org/programs/new-face-of-tech-scholarship-program/) | | |
 
 ## Finance+ exploratory/diversity programs
-All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+.
+All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -132,6 +132,8 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Rising Leaders Koch](https://www.kochcollegerecruiting.com/rising_leaders/) | Elevate your future at this exclusive event where you’ll apply and interview for 2021 internships, network with other students and explore career opportunities while finding your fit in our unique culture. | January |
 | Bloomberg Women in Business Summit | This event is open to all university students and will be a great opportunity for those interested to visit the office, learn about our products and culture, and network with female leaders across our Analytics & Sales departments. There will also be recruiters there to speak to you about full-time and internship opportunities. The day will include a light breakfast as well as lunch. | February? |
 | [Jopwell I+D](https://www.jopwell.com/events/identifyanddevelop) | An invitation-only two-day career development seminar for juniors and sophomores. Presented by Jopwell, the leading career development platform for Black, Latinx and Native American students. Our mission is to identify your career goals and develop an action plan to secure job opportunities.  | ? |
+| [UBS Tomorrow's Leaders Program](https://ubs.dejobs.org/virtual-usa/tomorrows-leaders-2020/101e618569184fe9bb4ba6a155b65a9b/job/)| Our Tomorrow’s Leaders Program is a virtual accelerator program where you can network with industry leaders, learn all about UBS as an employer, and explore the diverse career opportunities we offer. Freshman and sophomores | April |
+| [Accenture Student Empowerment Program](https://www.accenture.com/us-en/careers/local/accenture-student-empowerment-program) | The Accenture Student Empowerment Program (ASEP) is a mentorship program that inspires the best and brightest, diverse community of college freshmen and sophomores to explore and learn about a career in consulting at Accenture. Freshman and Sophomores | April | 
 
 ## Bonus: Resume + Tips
 
