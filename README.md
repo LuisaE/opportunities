@@ -3,7 +3,7 @@ List of CS and Finance exploratory/diversity programs, underclassmen internships
 **All the programs are extremely competitive**. Given the COVID-19 situation, is it possible that some of those opportunities will not be available anymore or will be changed to a virtual format. 
 **Double check the deadlines!**
 Most of the opportunities are for sophomores, quite a lot for freshman, and a few for juniors.
-Opportunities with * mean that a Carleton student participated. 
+Opportunities with * - Carleton student participated. 
 
 To Contribute:
 
@@ -53,8 +53,9 @@ All of the programs are all expenses paid.
 | [Code 2040 Tech Trek](http://www.code2040.org/tech-trek) | Tech Trek is designed to address the key factors in the retention and persistence of Black and Latinx computer science/engineering majors’ on the path to becoming thriving technologists and leaders in the innovation economy. The all-expenses paid program connects you with a cohort of 50 Black and Latinx students from across the United States to gain the network, resources, and community needed to launch and sustain your tech career. | July |
 | Target Diversity Leadership Symposium | Target is hosting an intensive 3-day leadership symposium for up to 40 sophomores at Target Headquarters. The symposium will focus on diversity and inclusion, development, the retail industry, and internship opportunities at Target. | May |
 | [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| **Invitation only** (ask a recruiter) |
-| Facebook Wayfinder | 3 day, invite only, selective event. | **Invitation only** (ask a recruiter) |
+| Facebook Wayfinder* | 3 day, invite only, selective event. | **Invitation only** (ask a recruiter) |
 |[Google Summer Of Code](https://summerofcode.withgoogle.com/) | The Google Summer of Code, often abbreviated to GSoC, is an international annual program in which Google awards stipends to students who successfully complete a free and open-source software coding project during the summer. The program is open to university students aged 18 or over. | May |
+| [Uber Sophomore Associate Product Manager Empower Summit](https://www.uberapms.com/empower-summit?fbclid=IwAR3EFXXjfqNGcqORLHUb1cNOlm9mZLqT7JMjV23xOnIoMwi5__mIJUjEg3Q) | This free, multi-day seminar for Sophomores is an introduction to Product Management and the tech industry. Empower is open to all majors, and provides students with skills to succeed as a Product Manager, mentors to guide their development and journey, and a community to connect them to a group of ambitious students. | July |
 
 ## CS conferences (and scholarships)
 
@@ -71,7 +72,7 @@ All of the programs are all expenses paid.
 | [Leetcode](https://leetcode.com) | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. LeetCode free is enough. | 
 | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) | Book with good resources. The Career Center has one that you can borrow |
 | [Interview Cake](https://www.interviewcake.com) | Good Data Structures articles, you can get 3 weeks free with the Github Student Developer Pack |
-| [CodePath Summer Interview Prep](https://codepath.org/classes/interviewprep) | Free and selective summer virtual course taught by professional engineers to help you ace technical interviewing and give you a preview of real-world software topics in industry. This course prepares you for solving challenging algorithm problems in real whiteboard and coding interviews at top companies. Includes lectures, labs, mock interview practice, and info sessions from industry experts. Deadline to apply: May. |
+| [CodePath Summer Interview Prep](https://codepath.org/classes/interviewprep)* | Free and selective summer virtual course taught by professional engineers to help you ace technical interviewing and give you a preview of real-world software topics in industry. This course prepares you for solving challenging algorithm problems in real whiteboard and coding interviews at top companies. Includes lectures, labs, mock interview practice, and info sessions from industry experts. Deadline to apply: May. |
 | [Facebook ABCS]() | The ABCS program is a 9-week free workshop series that is designed to review and master the knowledge, skills, and mindsets for a successful technical interview in industry. Although virtual, the ABCS program offers an opportunity to get to know a community of peers, practice applied problem solving, and take advantage of mentorship opportunities and mock phone screens to prepare for opportunities this fall. Juniors and Seniors. Deadline to apply: May. |
 
 
@@ -113,6 +114,8 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | L'Oréal USA Diverse Future Leaders Sophomore Fellowship | We aspire to develop a unique community of diverse students from across the USA and provide them access, education, and mentorship within the business world. We seek to foster a fellowship of diverse student leaders who could be our future leaders of the corporate world and beyond. We want to share our experiences and knowledge as employees of a global leader in consumer goods with the emerging leaders of tomorrow. Sophomores | April but rolling |
 | [Lazard Sophomore Women Event](https://www.lazard.com/careers/2019-sophomore-diversity-day/) | This spring, Lazard will be hosting Sophomore Diversity Events for undergraduate students. The events will provide a first-hand look at what it's like to work at a global financial services firm, and give students the opportunity to learn more about Lazard's business and culture. The event is by invitation only and open to undergraduate Black, Hispanic and Native American students in their sophomore year currently studying at a college/university in U.S. | February |
 | [Nomura sophomore diversity program](https://nomuracampus.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/338-2020-Explore-Nomura-Sophomore-Diversity-Program/en-GB) | Explore Nomura is an Early Insights program designed to provide diverse sophomores with broad exposure to careers in Investment Banking, Global Markets and Corporate Infrastructure. | January |
+| [Freshman Diversity Leadership Academy - McKinsey](https://www.mckinsey.com/careers/students/freshman-diversity-leadership-academy/overview)* | FDLA is an exclusive two-day workshop during which attendees explore the potential of a career in consulting and refine their problem-solving and leadership skills. Through interactive activities, case workshops, panels, and networking events, attendees will learn about our work, culture, and people. | February |
+| [Bridge to consulting](https://www.bcg.com/en-us/careers/working-at-bcg/bridge-to-consulting.aspx) | The Bridge to Consulting Workshop and Externship Program allows freshman and sophomore students from underrepresented minority groups, specifically Black/African American, Hispanic/Latino, and Native American/Alaska Native to experience BC | March |
 | Moelis Youth Leaders Diversity Program |  |  |
 | PJT Partners Underg. Women  |  |  |
 | PNC Lead diversity summit |  |  |
@@ -125,8 +128,6 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Cisco STARS Program | Cisco Finance's summer training academy for rising seniors | ? |
 | Two Sigma New Seekers Summit | Quantitative finance and research summit. | ? |
 | Finance Leaders in Technology Workshop | Finance Leaders in Technology Workshop is a 3-day summer program held at our Microsoft Redmond Campus - sophomores. | April |
-| [Freshman Diversity Leadership Academy - McKinsey](https://www.mckinsey.com/careers/students/freshman-diversity-leadership-academy/overview)* | FDLA is an exclusive two-day workshop during which attendees explore the potential of a career in consulting and refine their problem-solving and leadership skills. Through interactive activities, case workshops, panels, and networking events, attendees will learn about our work, culture, and people. | February |
-| [Bridge to consulting](https://www.bcg.com/en-us/careers/working-at-bcg/bridge-to-consulting.aspx) | The Bridge to Consulting Workshop and Externship Program allows freshman and sophomore students from underrepresented minority groups, specifically Black/African American, Hispanic/Latino, and Native American/Alaska Native to experience BC | March |
 
 ## Bonus: Resume + Tips
 
