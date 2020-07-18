@@ -128,6 +128,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Cisco STARS Program | Cisco Finance's summer training academy for rising seniors | ? |
 | Two Sigma New Seekers Summit | Quantitative finance and research summit. | ? |
 | Finance Leaders in Technology Workshop | Finance Leaders in Technology Workshop is a 3-day summer program held at our Microsoft Redmond Campus - sophomores. | April |
+| Abercrombie & Fitch Leadership Development Program Sophomore Summit | | May? |
 
 ## Bonus: Resume + Tips
 
