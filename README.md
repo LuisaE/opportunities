@@ -130,6 +130,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Finance Leaders in Technology Workshop | Finance Leaders in Technology Workshop is a 3-day summer program held at our Microsoft Redmond Campus - sophomores. | April |
 | Abercrombie & Fitch Leadership Development Program Sophomore Summit | | May? |
 | [Rising Leaders Koch](https://www.kochcollegerecruiting.com/rising_leaders/) | Elevate your future at this exclusive event where you’ll apply and interview for 2021 internships, network with other students and explore career opportunities while finding your fit in our unique culture. | January |
+| Bloomberg Women in Business Summit | This event is open to all university students and will be a great opportunity for those interested to visit the office, learn about our products and culture, and network with female leaders across our Analytics & Sales departments. There will also be recruiters there to speak to you about full-time and internship opportunities. The day will include a light breakfast as well as lunch. | February? |
 
 ## Bonus: Resume + Tips
 
