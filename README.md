@@ -144,4 +144,5 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 1. Create a Linkedin and a GitHub and add some projects. 
 2. Read this resume guide and update your resume: [How to Write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub?fbclid=IwAR0HLo_mONStDfwLuDcYo2eexckwo5VKM2L4Lh5O4hcQnVfjUU5RrZJ-2bM) and [This is what a GOOD resume should look like](https://www.careercup.com/resume?fbclid=IwAR1FyQqS0pwgjRCnNgzLNO70ndWAp9Ok9jQScMAyJxVtqK3_NOimNV9fmWY)
 3. Go to the career center and ask them to check your resume, or ask someone you know to check it for you. 
+4. Get a CS related student job, there are some at Carleton! Examples: CS TA and grader, Data Squad, Web Services Student Developer, Academic Technology and ITS student worker, digital humanities intern...
 5. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
