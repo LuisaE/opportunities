@@ -123,6 +123,8 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [UBS Tomorrow's Leaders Program](https://ubs.dejobs.org/virtual-usa/tomorrows-leaders-2020/101e618569184fe9bb4ba6a155b65a9b/job/)| Our Tomorrow’s Leaders Program is a virtual accelerator program where you can network with industry leaders, learn all about UBS as an employer, and explore the diverse career opportunities we offer. Freshman and sophomores | April |
 | [Accenture Student Empowerment Program](https://www.accenture.com/us-en/careers/local/accenture-student-empowerment-program) | The Accenture Student Empowerment Program (ASEP) is a mentorship program that inspires the best and brightest, diverse community of college freshmen and sophomores to explore and learn about a career in consulting at Accenture. Freshman and Sophomores | April | 
 | [Building Entrepreneurial Leaders Program](https://www.bain.com/careers/bel/) | The Building Entrepreneurial Leaders (BEL) Program is a highly selective program focused on giving top students of Black/African American, Hispanic/Latinx and American Indian descent the opportunity to strengthen their business and leadership skill set while gaining exposure to consulting. The BEL program is available in most US offices and Toronto. |  | 
+| Cisco STARS Program | Cisco Finance's summer training academy for rising seniors |  |
+| Two Sigma New Seekers Summit | Quantitative finance and research summit. |  |
 | [SIG Sophomore discovery programs](https://sig.com/campus-programs/) |  |  |
 | Moelis Youth Leaders Diversity Program |  |  |
 | PJT Partners Underg. Women  |  |  |
@@ -133,8 +135,6 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Rothschild and co women leadership program |  |  |
 | Trading Business Course - New York - Flow traders |  | April |
 | Virtu Financial's Women's Winternship  |  | August |
-| Cisco STARS Program | Cisco Finance's summer training academy for rising seniors |  |
-| Two Sigma New Seekers Summit | Quantitative finance and research summit. |  |
 | Abercrombie & Fitch Leadership Development Program Sophomore Summit | | May (?) | 
 
 ## Bonus: Resume + Tips
