@@ -84,6 +84,7 @@ All of the programs are all expenses paid.
 | [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores, US citizens only | October |
 
 ## CS Scholarships
+
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Microsoft Tuition Scholarship](https://careers.microsoft.com/students/us/en/usscholarshipprogram) | Microsoft awards tuition and conference scholarships each year to encourage students to further their learnings in Computer Science and related STEM (Science, Technology, Engineering, and Math) disciplines. Recipients for the scholarship will be awarded in recognition of their demonstrated passion for technology, academic excellence, and leadership while working to push the software industry forward. | Summer |
@@ -92,7 +93,6 @@ All of the programs are all expenses paid.
 | [Palantir Future Scholarship](https://www.palantir.com/students/scholarship/future/) | This year, 10 scholarship recipients will be chosen and invited to visit our headquarters in Palo Alto for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded grants of $7,000 to support their education. | March | 
 | [Palantir Women in Tech Scholarship ](https://www.palantir.com/students/scholarship/wit-north-america/) | This year, 10 scholarship recipients will be chosen and invited to visit our Washington, D.C. office for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded $7,000 to support their education. | March | 
 | [Quip Diversity Scholarship](https://quip.com/blog/2020-quip-diversity-scholarship) | The Quip team will review applications, choose winners and runners-up, and then invite them to a full day of learning and mentorship.* Each scholarship winner will receive $5,000 and each runner-up will receive $1,000 toward their education. | June |
-| [New Face of Tech Scholarship Harman 1000 dreams](https://1000dreamsfund.org/programs/new-face-of-tech-scholarship-program/) |  |  |
 
 ## Finance+ exploratory/diversity programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
