@@ -14,6 +14,8 @@ Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.e
 
 ## CS underclassmen/diversity internships
 
+Not a freshman or sohpomore? Check this out [Summer 2021 CS Internships](https://github.com/Pitt-CSC/Summer2021-Internships)
+
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram) | Explore Microsoft is a 12-week summer internship program specifically designed for first and second year college students. The program is rotational and allows you to gain experience in our different software engineering roles (SWE + PM). Phone interview + Onsite. | No fixed deadline, apply early. |
@@ -27,7 +29,7 @@ Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.e
 | Pinterest Engage | Unpaid. Pinterest Engage is an early identification program for freshman students enrolled in a bachelor’s degree program with a demonstrated interest in majoring in computer science. | January (?) |
 | Dropbox Launch | Dropbox Launch aims to provide you with a 12 week immersive experience at our San Francisco Headquarters. Each Launch intern is paired with a dedicated mentor committed to guiding their learning and development throughout the summer. | December (?) |
 | Uber STAR |  | November (?)  | 
-| Visa Sophomore Internship Program | This program is aimed at helping current sophomores develop a foundation in Technology for the rest of their careers. The Sophomore Internship Experience is an 8 week hands on, immersive internship program that enables students from underrepresented communities to get to know Visa’s products, people and culture. | -
+| Visa Sophomore Internship Program | This program is aimed at helping current sophomores develop a foundation in Technology for the rest of their careers. The Sophomore Internship Experience is an 8 week hands on, immersive internship program that enables students from underrepresented communities to get to know Visa’s products, people and culture. |  |
 
 
 ## CS exploratory/diversity programs
@@ -75,8 +77,8 @@ All of the programs are all expenses paid.
 | [Interview Cake](https://www.interviewcake.com) | Good Data Structures articles, you can get 3 weeks free with the Github Student Developer Pack |
 | [CodePath Summer Interview Prep](https://codepath.org/classes/interviewprep) | Free and selective summer virtual course taught by professional engineers to help you ace technical interviewing and give you a preview of real-world software topics in industry. This course prepares you for solving challenging algorithm problems in real whiteboard and coding interviews at top companies. Includes lectures, labs, mock interview practice, and info sessions from industry experts. Deadline to apply: May. |
 | [Facebook ABCS]() | The ABCS program is a 9-week free workshop series that is designed to review and master the knowledge, skills, and mindsets for a successful technical interview in industry. Although virtual, the ABCS program offers an opportunity to get to know a community of peers, practice applied problem solving, and take advantage of mentorship opportunities and mock phone screens to prepare for opportunities this fall. Juniors and Seniors. Deadline to apply: May. 
-| [Hackerrank] (https://www.hackerrank.com/) | HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. There are tons of questions and timed tests to help you practice. 
-| [Algo expert]() | Newly developed toolkit of questions. Comes with videos explaining solutions to all the problems and with a crash course on data structures and algorithms.
+| [Hackerrank](https://www.hackerrank.com/) | HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. There are tons of questions and timed tests to help you practice. 
+| [Algo expert](https://www.algoexpert.io/product) | Newly developed toolkit of questions. Comes with videos explaining solutions to all the problems and with a crash course on data structures and algorithms.
 
 
 ## CS Mentorship
@@ -85,7 +87,7 @@ All of the programs are all expenses paid.
 | --- | --- | --- |
 | [Rewriting the Code](https://rewritingthecode.org/fellowship/) | The Rewriting the Code Fellowship Program is for women undergraduates and masters level students studying computer science and engineering related majors who are interested in gaining applied experience through potential internships or full-time jobs with leading tech companies. | April |
 | [Code 2040 Early Career Accelerator](http://www.code2040.org/early-career-accelerator-program) | Participants will receive socio-emotional, professional, and management development through in-person workshops, mentorship and coaching, and online engagement. In this program, we’ll build community, make space to commiserate, and most importantly, find tactical solutions to the professional and cultural roadblocks we face in the workplace. | September |
-| [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores | October |
+| [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores, US citizens only | October |
 
 ## CS Scholarships
 | Name | Description | Approximate Deadline |
@@ -122,10 +124,11 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Vanguard EXPLORE Days](https://www.vanguardjobs.com/students-and-recent-graduates/explore-days/) | When you spend a day at one of our offices, you’ll learn more about our industry, what sets us apart and meet leaders from across our business. This is your chance to discover the many ways you can make a difference as part of our team. Fill out our form to be considered for EXPLORE based on your desired location: Charlotte, NC, Malvern, PA or Scottsdale, AZ. |  |
 | Finance Leaders in Technology Workshop | Finance Leaders in Technology Workshop is a 3-day summer program held at our Microsoft Redmond Campus - sophomores. | April |
 | [Rising Leaders Koch](https://www.kochcollegerecruiting.com/rising_leaders/) | Elevate your future at this exclusive event where you’ll apply and interview for 2021 internships, network with other students and explore career opportunities while finding your fit in our unique culture. | January |
-| Bloomberg Women in Business Summit | This event is open to all university students and will be a great opportunity for those interested to visit the office, learn about our products and culture, and network with female leaders across our Analytics & Sales departments. There will also be recruiters there to speak to you about full-time and internship opportunities. The day will include a light breakfast as well as lunch. | February? |
-| [Jopwell I+D](https://www.jopwell.com/events/identifyanddevelop) | An invitation-only two-day career development seminar for juniors and sophomores. Presented by Jopwell, the leading career development platform for Black, Latinx and Native American students. Our mission is to identify your career goals and develop an action plan to secure job opportunities.  | ? |
+| Bloomberg Women in Business Summit | This event is open to all university students and will be a great opportunity for those interested to visit the office, learn about our products and culture, and network with female leaders across our Analytics & Sales departments. There will also be recruiters there to speak to you about full-time and internship opportunities. The day will include a light breakfast as well as lunch. | February (?) |
+| [Jopwell I+D](https://www.jopwell.com/events/identifyanddevelop) | An invitation-only two-day career development seminar for juniors and sophomores. Presented by Jopwell, the leading career development platform for Black, Latinx and Native American students. Our mission is to identify your career goals and develop an action plan to secure job opportunities.  |  |
 | [UBS Tomorrow's Leaders Program](https://ubs.dejobs.org/virtual-usa/tomorrows-leaders-2020/101e618569184fe9bb4ba6a155b65a9b/job/)| Our Tomorrow’s Leaders Program is a virtual accelerator program where you can network with industry leaders, learn all about UBS as an employer, and explore the diverse career opportunities we offer. Freshman and sophomores | April |
 | [Accenture Student Empowerment Program](https://www.accenture.com/us-en/careers/local/accenture-student-empowerment-program) | The Accenture Student Empowerment Program (ASEP) is a mentorship program that inspires the best and brightest, diverse community of college freshmen and sophomores to explore and learn about a career in consulting at Accenture. Freshman and Sophomores | April | 
+| [Building Entrepreneurial Leaders Program](https://www.bain.com/careers/bel/) | The Building Entrepreneurial Leaders (BEL) Program is a highly selective program focused on giving top students of Black/African American, Hispanic/Latinx and American Indian descent the opportunity to strengthen their business and leadership skill set while gaining exposure to consulting. The BEL program is available in most US offices and Toronto. |  | 
 | [SIG Sophomore discovery programs](https://sig.com/campus-programs/) |  |  |
 | Moelis Youth Leaders Diversity Program |  |  |
 | PJT Partners Underg. Women  |  |  |
@@ -136,9 +139,9 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Rothschild and co women leadership program |  |  |
 | Trading Business Course - New York - Flow traders |  | April |
 | Virtu Financial's Women's Winternship  |  | August |
-| Cisco STARS Program | Cisco Finance's summer training academy for rising seniors | ? |
-| Two Sigma New Seekers Summit | Quantitative finance and research summit. | ? |
-| Abercrombie & Fitch Leadership Development Program Sophomore Summit | | May? | 
+| Cisco STARS Program | Cisco Finance's summer training academy for rising seniors |  |
+| Two Sigma New Seekers Summit | Quantitative finance and research summit. |  |
+| Abercrombie & Fitch Leadership Development Program Sophomore Summit | | May (?) | 
 
 ## Bonus: Resume + Tips
 
