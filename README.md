@@ -74,7 +74,9 @@ All of the programs are all expenses paid.
 | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) | Book with good resources. The Career Center has one that you can borrow |
 | [Interview Cake](https://www.interviewcake.com) | Good Data Structures articles, you can get 3 weeks free with the Github Student Developer Pack |
 | [CodePath Summer Interview Prep](https://codepath.org/classes/interviewprep) | Free and selective summer virtual course taught by professional engineers to help you ace technical interviewing and give you a preview of real-world software topics in industry. This course prepares you for solving challenging algorithm problems in real whiteboard and coding interviews at top companies. Includes lectures, labs, mock interview practice, and info sessions from industry experts. Deadline to apply: May. |
-| [Facebook ABCS]() | The ABCS program is a 9-week free workshop series that is designed to review and master the knowledge, skills, and mindsets for a successful technical interview in industry. Although virtual, the ABCS program offers an opportunity to get to know a community of peers, practice applied problem solving, and take advantage of mentorship opportunities and mock phone screens to prepare for opportunities this fall. Juniors and Seniors. Deadline to apply: May. |
+| [Facebook ABCS]() | The ABCS program is a 9-week free workshop series that is designed to review and master the knowledge, skills, and mindsets for a successful technical interview in industry. Although virtual, the ABCS program offers an opportunity to get to know a community of peers, practice applied problem solving, and take advantage of mentorship opportunities and mock phone screens to prepare for opportunities this fall. Juniors and Seniors. Deadline to apply: May. 
+| [Hackerrank] (https://www.hackerrank.com/) | HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. There are tons of questions and timed tests to help you practice. 
+| [Algo expert]() | Newly developed toolkit of questions. Comes with videos explaining solutions to all the problems and with a crash course on data structures and algorithms.
 
 
 ## CS Mentorship
@@ -145,3 +147,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 3. Go to the career center and ask them to check your resume, or ask someone you know to check it for you. 
 4. Get a CS related student job, there are some at Carleton! Examples: CS TA and grader, Data Squad, Web Services Student Developer, Academic Technology and ITS student worker, digital humanities intern...
 5. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
+6. If you don't want to purchase one of the resources (say, leetcode) yourself, you can always get a group of friends together and split the cost. This will also help you keep each other accountable. 
+7. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
+
+
