@@ -4,17 +4,11 @@ List of CS and Finance exploratory/diversity programs, underclassmen internships
 **Double check the deadlines!**
 Most of the opportunities are for sophomores, quite a lot for freshman, and a few for juniors.
 
-To Contribute:
-
-1. Fork this repository
-2. Edit README.md and add your posting
-3. Submit a Pull Request
-
-Want more opportunities and deadlines? Check https://employers.ocs.fas.harvard.edu/calendar or https://apps.carleton.edu/career/about/events/
+Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](https://employers.ocs.fas.harvard.edu/calendar) or [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
 ## CS underclassmen/diversity internships
 
-Not a freshman or sohpomore? Check this out [Summer 2021 CS Internships](https://github.com/Pitt-CSC/Summer2021-Internships)
+Not a freshman or sohpomore? Check this: [Summer 2021 CS Internships](https://github.com/Pitt-CSC/Summer2021-Internships)
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -98,7 +92,7 @@ All of the programs are all expenses paid.
 | [Palantir Future Scholarship](https://www.palantir.com/students/scholarship/future/) | This year, 10 scholarship recipients will be chosen and invited to visit our headquarters in Palo Alto for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded grants of $7,000 to support their education. | March | 
 | [Palantir Women in Tech Scholarship ](https://www.palantir.com/students/scholarship/wit-north-america/) | This year, 10 scholarship recipients will be chosen and invited to visit our Washington, D.C. office for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded $7,000 to support their education. | March | 
 | [Quip Diversity Scholarship](https://quip.com/blog/2020-quip-diversity-scholarship) | The Quip team will review applications, choose winners and runners-up, and then invite them to a full day of learning and mentorship.* Each scholarship winner will receive $5,000 and each runner-up will receive $1,000 toward their education. | June |
-| [New Face of Tech Scholarship Harman 1000 dreams](https://1000dreamsfund.org/programs/new-face-of-tech-scholarship-program/) | | |
+| [New Face of Tech Scholarship Harman 1000 dreams](https://1000dreamsfund.org/programs/new-face-of-tech-scholarship-program/) |  |  |
 
 ## Finance+ exploratory/diversity programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
