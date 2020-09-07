@@ -6,7 +6,17 @@ Most of the opportunities are for sophomores, quite a lot for freshman, and a fe
 
 Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](https://employers.ocs.fas.harvard.edu/calendar) or [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
-## CS underclassmen/diversity internships
+ * [CS underclassmen/diversity internships](#cs-underclassmen-and-diversity-internships)
+ * [CS exploratory/diversity programs](#cs-exploratory-and-diversity-programs)
+ * [CS conferences scholarships](#cs-conferences-scholarships)
+ * [Coding interview resources](#coding-interview-resources)
+ * [CS Mentorship](#cs-mentorship)
+ * [CS Scholarships](#cs-scholarships)
+ * [Finance+ exploratory/diversity programs](#finance-and-consulting-exploratory-and-diversity-programs)
+ * [Bonus: Resume + Tips](#bonus-resume-and-tips)
+
+
+## CS underclassmen and diversity internships
 
 Not a freshman or sohpomore? Check this: [Summer 2021 CS Internships](https://github.com/Pitt-CSC/Summer2021-Internships)
 
@@ -22,11 +32,11 @@ Not a freshman or sohpomore? Check this: [Summer 2021 CS Internships](https://gi
 | [Code 2040 Fellows Program](http://www.code2040.org/fellows-program) | The Fellows Program is an intensive career accelerator for Black and Latinx college and graduate-level computer science students. For 9 weeks between June and August, you’ll intern at a top tech company and engage in racial equity advocacy work. You’ll participate in a series of learning experiences designed to give you the tools and resources you need to navigate the tech industry, build a lasting career, and advocate for yourself and your community. | July |
 | Pinterest Engage | Unpaid. Pinterest Engage is an early identification program for freshman students enrolled in a bachelor’s degree program with a demonstrated interest in majoring in computer science. | January (?) |
 | Dropbox Launch | Dropbox Launch aims to provide you with a 12 week immersive experience at our San Francisco Headquarters. Each Launch intern is paired with a dedicated mentor committed to guiding their learning and development throughout the summer. | December (?) |
-| Uber STAR |  | November (?)  | 
+| Uber STAR | The Summer Technology cAreer Readiness Program (STAR) at Uber is a 12-week paid internship for undergraduate freshman and rising sophomores. Students from all schools, and students who identify with a group that is historically underrepresented in the technology industry, including but not limited to Black, Hispanic, Native American, students with disabilities, veterans are encouraged to apply. | November (?) | 
 | Visa Sophomore Internship Program | This program is aimed at helping current sophomores develop a foundation in Technology for the rest of their careers. The Sophomore Internship Experience is an 8 week hands on, immersive internship program that enables students from underrepresented communities to get to know Visa’s products, people and culture. |  |
 
 
-## CS exploratory/diversity programs
+## CS exploratory and diversity programs
 All of the programs are all expenses paid. 
 
 | Name | Description | Approximate Deadline |
@@ -54,7 +64,7 @@ All of the programs are all expenses paid.
 |[Google Summer Of Code](https://summerofcode.withgoogle.com/) | The Google Summer of Code, often abbreviated to GSoC, is an international annual program in which Google awards stipends to students who successfully complete a free and open-source software coding project during the summer. The program is open to university students aged 18 or over. | May |
 | [Facebook Design Summit](https://facebookdesignsummit2020.splashthat.com/?fbclid=IwAR1YWx25kIblo6acAQA3L6tsWuk_Xrd2Ml5jleaPex0Y0KJ4YUc9-maGaQI) | This two-day virtual program is open to students from all North American schools who identify as part of a historically underrepresented group in the technology industry, including but not limited to Black, Hispanic, and Native American students, students with disabilities and veterans. Each selected participant will have the opportunity to join workshops, portfolio reviews, and interview preparation sessions, as well as spend valuable time learning and collaborating with Facebook product designers, content strategists and design leadership. | May |
 
-## CS conferences (and scholarships)
+## CS conferences scholarships
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -94,7 +104,7 @@ All of the programs are all expenses paid.
 | [Palantir Women in Tech Scholarship ](https://www.palantir.com/students/scholarship/wit-north-america/) | This year, 10 scholarship recipients will be chosen and invited to visit our Washington, D.C. office for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded $7,000 to support their education. | March | 
 | [Quip Diversity Scholarship](https://quip.com/blog/2020-quip-diversity-scholarship) | The Quip team will review applications, choose winners and runners-up, and then invite them to a full day of learning and mentorship.* Each scholarship winner will receive $5,000 and each runner-up will receive $1,000 toward their education. | June |
 
-## Finance+ exploratory/diversity programs
+## Finance and consulting exploratory and diversity programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
 
 | Name | Description | Approximate Deadline |
@@ -122,6 +132,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [Jopwell I+D](https://www.jopwell.com/events/identifyanddevelop) | An invitation-only two-day career development seminar for juniors and sophomores. Presented by Jopwell, the leading career development platform for Black, Latinx and Native American students. Our mission is to identify your career goals and develop an action plan to secure job opportunities.  |  |
 | [UBS Tomorrow's Leaders Program](https://ubs.dejobs.org/virtual-usa/tomorrows-leaders-2020/101e618569184fe9bb4ba6a155b65a9b/job/)| Our Tomorrow’s Leaders Program is a virtual accelerator program where you can network with industry leaders, learn all about UBS as an employer, and explore the diverse career opportunities we offer. Freshman and sophomores | April |
 | [Accenture Student Empowerment Program](https://www.accenture.com/us-en/careers/local/accenture-student-empowerment-program) | The Accenture Student Empowerment Program (ASEP) is a mentorship program that inspires the best and brightest, diverse community of college freshmen and sophomores to explore and learn about a career in consulting at Accenture. Freshman and Sophomores | April | 
+| Virtu Financial's Women's Winternship  | This January, we will host our 3rd annual Women's Winternship. This is an exciting program that offers women students an opportunity to learn about our firm, the basics of trading and a view of what Virtu does in the global financial marketplace. You’ll also get insight into a career in financial services through engaging panels and networking events with top female talent at Virtu, as well as insight into the different roles that exist within our firm. | August |
 | [Building Entrepreneurial Leaders Program](https://www.bain.com/careers/bel/) | The Building Entrepreneurial Leaders (BEL) Program is a highly selective program focused on giving top students of Black/African American, Hispanic/Latinx and American Indian descent the opportunity to strengthen their business and leadership skill set while gaining exposure to consulting. The BEL program is available in most US offices and Toronto. |  | 
 | Cisco STARS Program | Cisco Finance's summer training academy for rising seniors |  |
 | Two Sigma New Seekers Summit | Quantitative finance and research summit. |  |
@@ -134,10 +145,9 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Red Ventures 3 Day Summit |  |  |
 | Rothschild and co women leadership program |  |  |
 | Trading Business Course - New York - Flow traders |  | April |
-| Virtu Financial's Women's Winternship  |  | August |
 | Abercrombie & Fitch Leadership Development Program Sophomore Summit | | May (?) | 
 
-## Bonus: Resume + Tips
+## Bonus: Resume and Tips
 
 1. Create a Linkedin and a GitHub and add some projects. 
 2. Read this resume guide and update your resume: [How to Write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub?fbclid=IwAR0HLo_mONStDfwLuDcYo2eexckwo5VKM2L4Lh5O4hcQnVfjUU5RrZJ-2bM) and [This is what a GOOD resume should look like](https://www.careercup.com/resume?fbclid=IwAR1FyQqS0pwgjRCnNgzLNO70ndWAp9Ok9jQScMAyJxVtqK3_NOimNV9fmWY)
@@ -146,5 +156,4 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 5. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
 6. If you don't want to purchase one of the resources (say, leetcode) yourself, you can always get a group of friends together and split the cost. This will also help you keep each other accountable. 
 7. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
-
 
