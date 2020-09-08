@@ -63,6 +63,7 @@ All of the programs are all expenses paid.
 | Facebook Wayfinder | 3 day, invite only, selective event. | **Invitation only** (ask a recruiter) |
 |[Google Summer Of Code](https://summerofcode.withgoogle.com/) | The Google Summer of Code, often abbreviated to GSoC, is an international annual program in which Google awards stipends to students who successfully complete a free and open-source software coding project during the summer. The program is open to university students aged 18 or over. | May |
 | [Facebook Design Summit](https://facebookdesignsummit2020.splashthat.com/?fbclid=IwAR1YWx25kIblo6acAQA3L6tsWuk_Xrd2Ml5jleaPex0Y0KJ4YUc9-maGaQI) | This two-day virtual program is open to students from all North American schools who identify as part of a historically underrepresented group in the technology industry, including but not limited to Black, Hispanic, and Native American students, students with disabilities and veterans. Each selected participant will have the opportunity to join workshops, portfolio reviews, and interview preparation sessions, as well as spend valuable time learning and collaborating with Facebook product designers, content strategists and design leadership. | May |
+| [P&G Emerging Leaders Information Technology](https://www.pgcareers.com/job/cincinnati/information-technology-emerging-leaders-2022-internship-sophomore/936/17085179) | Join us for an all-expense paid 3 day trip to our global headquarters in Cincinnati, Ohio to see what P&G stands for and why this is the place for you! Meet our leaders, learn about our brands, the amazing careers we nurture and grow, and the millions of lives you can impact along the way. You will be with 200 of the best top candidates from around the country. You will have a BLAST and a chance to walk away with an IT internship with us for the summer of 2022. Sophomores. | September |
 
 ## CS conferences scholarships
 
@@ -80,7 +81,7 @@ All of the programs are all expenses paid.
 | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) | Book with good resources. The Career Center has one that you can borrow |
 | [Interview Cake](https://www.interviewcake.com) | Good Data Structures articles, you can get 3 weeks free with the Github Student Developer Pack |
 | [CodePath Summer Interview Prep](https://codepath.org/classes/interviewprep) | Free and selective summer virtual course taught by professional engineers to help you ace technical interviewing and give you a preview of real-world software topics in industry. This course prepares you for solving challenging algorithm problems in real whiteboard and coding interviews at top companies. Includes lectures, labs, mock interview practice, and info sessions from industry experts. Deadline to apply: May. |
-| [Facebook ABCS]() | The ABCS program is a 9-week free workshop series that is designed to review and master the knowledge, skills, and mindsets for a successful technical interview in industry. Although virtual, the ABCS program offers an opportunity to get to know a community of peers, practice applied problem solving, and take advantage of mentorship opportunities and mock phone screens to prepare for opportunities this fall. Juniors and Seniors. Deadline to apply: May. 
+| Facebook ABCS | The ABCS program is a 9-week free workshop series that is designed to review and master the knowledge, skills, and mindsets for a successful technical interview in industry. Although virtual, the ABCS program offers an opportunity to get to know a community of peers, practice applied problem solving, and take advantage of mentorship opportunities and mock phone screens to prepare for opportunities this fall. Juniors and Seniors. Deadline to apply: May. 
 | [Hackerrank](https://www.hackerrank.com/) | HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. There are tons of questions and timed tests to help you practice. 
 | [Algo expert](https://www.algoexpert.io/product) | Newly developed toolkit of questions. Comes with videos explaining solutions to all the problems and with a crash course on data structures and algorithms.
 
@@ -133,6 +134,8 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | [UBS Tomorrow's Leaders Program](https://ubs.dejobs.org/virtual-usa/tomorrows-leaders-2020/101e618569184fe9bb4ba6a155b65a9b/job/)| Our Tomorrow’s Leaders Program is a virtual accelerator program where you can network with industry leaders, learn all about UBS as an employer, and explore the diverse career opportunities we offer. Freshman and sophomores | April |
 | [Accenture Student Empowerment Program](https://www.accenture.com/us-en/careers/local/accenture-student-empowerment-program) | The Accenture Student Empowerment Program (ASEP) is a mentorship program that inspires the best and brightest, diverse community of college freshmen and sophomores to explore and learn about a career in consulting at Accenture. Freshman and Sophomores | April | 
 | Virtu Financial's Women's Winternship  | This January, we will host our 3rd annual Women's Winternship. This is an exciting program that offers women students an opportunity to learn about our firm, the basics of trading and a view of what Virtu does in the global financial marketplace. You’ll also get insight into a career in financial services through engaging panels and networking events with top female talent at Virtu, as well as insight into the different roles that exist within our firm. | August |
+| [RBC Women Advisory program](https://jobs.rbc.com/ca/en/job/260137/RBC-Capital-Markets-US-Women-s-Advisory-Program-2020-2021) | The 2020-2021 RBC Capital Markets US Women's Advisory Program is a selective, industry-leading four-month early insight and professional development program for outstanding female sophomore students interested in pursuing a career in finance. The program explores finance careers with our award-winning businesses in Global Banking and Global Markets | September |
+| Abercrombie & Fitch Sophomore Summit | The Sophomore Summit provides a unique opportunity to explore a variety of internships and full-time career paths in corporate retail at A&F Co. The Summit will bring students from across the country together to learn about our business, hear from former interns, interact with senior level leaders and team up to complete a hands-on case study that brings our roles to life. The event will kick off virtually, after which our teams will travel to universities across the country to see Case Study presentations live. | October | 
 | [Building Entrepreneurial Leaders Program](https://www.bain.com/careers/bel/) | The Building Entrepreneurial Leaders (BEL) Program is a highly selective program focused on giving top students of Black/African American, Hispanic/Latinx and American Indian descent the opportunity to strengthen their business and leadership skill set while gaining exposure to consulting. The BEL program is available in most US offices and Toronto. |  | 
 | Cisco STARS Program | Cisco Finance's summer training academy for rising seniors |  |
 | Two Sigma New Seekers Summit | Quantitative finance and research summit. |  |
@@ -140,12 +143,10 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Moelis Youth Leaders Diversity Program |  |  |
 | PJT Partners Underg. Women  |  |  |
 | PNC Lead diversity summit |  |  |
-| RBC Sophomore insights program |  |  |
-| RBC Women Advisory program |  |  |
+| RBC Sophomore insights program |  | September |
 | Red Ventures 3 Day Summit |  |  |
 | Rothschild and co women leadership program |  |  |
 | Trading Business Course - New York - Flow traders |  | April |
-| Abercrombie & Fitch Leadership Development Program Sophomore Summit | | May (?) | 
 
 ## Bonus: Resume and Tips
 
