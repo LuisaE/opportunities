@@ -160,4 +160,5 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 5. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
 6. If you don't want to purchase one of the resources (say, leetcode) yourself, you can always get a group of friends together and split the cost. This will also help you keep each other accountable. 
 7. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
+8. Want to know what's an SWE intern's salary at big tech companies? Check [Levels.fyi](https://www.levels.fyi/internships/?track=Software%20Engineer)
 
