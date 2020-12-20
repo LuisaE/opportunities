@@ -6,11 +6,13 @@ Most of the opportunities listed are for students **underrepresented (in tech)**
 Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](https://employers.ocs.fas.harvard.edu/calendar) or [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
  * [CS underclassmen/diversity internships](#cs-underclassmen-and-diversity-internships)
+ * [CS internship alternative](#cs-internship-alternative)
  * [CS exploratory/diversity programs](#cs-exploratory-and-diversity-programs)
  * [CS conferences scholarships](#cs-conferences-scholarships)
  * [Coding interview resources](#coding-interview-resources)
  * [CS Mentorship](#cs-mentorship)
  * [CS Scholarships](#cs-scholarships)
+ * [CS Research](#cs-research)
  * [Finance+ exploratory/diversity programs](#finance-and-consulting-exploratory-and-diversity-programs)
  * [Bonus: Resume + Tips](#bonus-resume-and-tips)
 
