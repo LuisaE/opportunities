@@ -39,6 +39,7 @@ Not a freshman or sohpomore? Check this: [Summer 2021 CS Internships](https://gi
 | [Global Technology Freshman Summer Analyst Program](https://campus.bankofamerica.com/careers/Global-Technology-Freshman-Summer-Analyst-Program-US.html) | Global Technology & Operations (GT&O) provides end-to-end technology and fulfillment to individual consumers, small businesses, middle-market businesses and large corporations. Globally, GT&O manages the critical systems and multiple platforms needed to maintain the enterprise's market-leading positions in key segments, including deposits, payment products, consumer lending, wealth management, small business and middle-market lending, treasury services, investment banking, and sales and trading. | Early december |
 
 ## CS internship alternative 
+
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [MLH Fellowship](https://fellowship.mlh.io) | The MLH Fellowship is a 12-week internship alternative for aspiring software engineers. Our programs pair fun, educational curriculum with practical experience that you can put on your resume right away. It's collaborative, remote, and happens under the guidance of expert mentors. Explorer, Open Source and Externship. Stipend available. | Winter, Spring, Fall | 
