@@ -1,14 +1,14 @@
 # Opportunities
 List of CS and Finance exploratory/diversity programs, underclassmen internships, interview prep and, mentorship programs. Given the COVID-19 situation, is it possible that some of those opportunities will not be available anymore or will be changed to a virtual format. 
 **Double check the deadlines!**
-Most of the opportunities listed are for students **underrepresented (in tech)** who are sophomores, freshman, or juniors (just a couple).
+Most of the opportunities listed are for students **underrepresented (in tech)** who are sophomores, freshman, or juniors (just a couple). For regular SWE internships go to [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships). 
 
 Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](https://employers.ocs.fas.harvard.edu/calendar) or [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
  * [CS underclassmen/diversity internships](#cs-underclassmen-and-diversity-internships)
  * [CS internship alternative](#cs-internship-alternative)
  * [CS exploratory/diversity programs](#cs-exploratory-and-diversity-programs)
- * [CS conferences scholarships](#cs-conferences-scholarships)
+ * [CS conferences and scholarships](#cs-conferences-and-scholarships)
  * [Coding interview resources](#coding-interview-resources)
  * [CS Mentorship](#cs-mentorship)
  * [CS Scholarships](#cs-scholarships)
@@ -19,7 +19,7 @@ Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](
 
 ## CS underclassmen and diversity internships
 
-Not a freshman or sohpomore? Check this: [Summer 2021 CS Internships](https://github.com/Pitt-CSC/Summer2021-Internships)
+Not a freshman or sohpomore? Check this: [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships)
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -52,6 +52,7 @@ All of the programs are all expenses paid.
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
+| [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows) | A Bessemer Fellow is a special appointment for high-performing students interested in engineering, product, or data science within the Bessemer portfolio. We accept students who have demonstrated excellence in their academic or professional pursuits and have a deep passion for entrepreneurship and innovation. | July |
 | [Goldman Sachs Engineering Possibilities Summit](https://www.goldmansachs.com/careers/students/programs/americas/exploratory-programs.html) | Engineering Essentials is a four day program designed to help current college sophomores develop the essentials skills and tools to prepare for a successful career as a software engineer. Application and HackerRank. | November |
 | [Uber Empower - Sophomore Associate Product Manager Summit](https://www.uberapms.com/empower-summit?fbclid=IwAR3EFXXjfqNGcqORLHUb1cNOlm9mZLqT7JMjV23xOnIoMwi5__mIJUjEg3Q) | This free, multi-day seminar for Sophomores is an introduction to Product Management and the tech industry. Empower is open to all majors, and provides students with skills to succeed as a Product Manager, mentors to guide their development and journey, and a community to connect them to a group of ambitious students. | July |
 | [Capital One Software Engineer Summit](https://campus.capitalone.com/summits/) | During this one-week program, a small, exceptional group of freshmen and sophomores will be immersed in our startup-minded and innovative culture while exploring and developing the technology and problem-solving skills valued by today’s top employers. If chosen for this highly selective program, you’ll take part in technical and soft-skill training sessions. | **Invitation only** (ask a recruiter) |
@@ -67,6 +68,7 @@ All of the programs are all expenses paid.
 | [DE Shaw Fellowships](https://fellowships.deshaw.com) | Over the course of three days, fellows participate in a set of unique educational opportunities designed to bring together talented and intellectually curious students and provide them with exposure to what we do at the firm through interactive case studies, seminars led by visiting professors, and sessions with the firm’s own analysts. You get a stipend of $1500. | Depends on the fellowship |
 | [Jane Street Women in Tech and Trading](https://www.janestreet.com/witt) | Women in Trading and Technology (WiTT) is a three-day programme designed for women in their penultimate year of university as of autumn 2020. Participants will have an exclusive opportunity to explore careers within our firm and attend one of two educational programmes: quantitative trading and software engineering. | June |
 | [Jane Street FOCUS](https://www.janestreet.com/focus?fbclid=IwAR2f4XY7jPaxrNk5OXTmhS0YtQMHVDDbxN3y0FLaFV_jgX7QNMM9duHdWNo) | Over the course of two days, you will participate in classes, discussions, and activities that are structured to provide a broad overview of the work our trading, software development, and business development teams do. There will also be opportunities to connect virtually with other attendees and employees from across the firm. | July |
+| [Jane Street Programs](https://www.janestreet.com/join-jane-street/our-programs/) | If you have never thought about a career in finance, you are in good company. Many of us had little to no experience in economics or finance before working here. We look for smart people from any background with a curious mind and a passion for technology and creative problem-solving. In other words, people like you! | Depends on the program |
 | [Piazza Tech Tour](https://piazza.com/techtour) | All-expenses-paid trip for 10 students to meet with the companies that are changing the world. This is one of many exciting opportunities you’ll have this year on Piazza Careers to interact with companies like Facebook, Quora, Pinterest, Airbnb, Palantir, and many more. | March |
 | [Spring technology early insight Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/2/opp/9425-2020-Spring-Technology-Early-Insights-Day/en-GB) | We invite students who are interested in learning about our 2021 Technology Campus Programs and the world of Technology at Morgan Stanley to apply for an opportunity to attend our Spring Technology Early Insights Event in our New York City office. Participation is limited and selected candidates will be notified directly. | March |
 | [Code 2040 Tech Trek](http://www.code2040.org/tech-trek) | Tech Trek is designed to address the key factors in the retention and persistence of Black and Latinx computer science/engineering majors’ on the path to becoming thriving technologists and leaders in the innovation economy. The all-expenses paid program connects you with a cohort of 50 Black and Latinx students from across the United States to gain the network, resources, and community needed to launch and sustain your tech career. | July |
@@ -80,13 +82,15 @@ All of the programs are all expenses paid.
 | [Women in Technology Forum](https://www.wellsfargojobs.com/job/-/-/1251/17281627?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed) | The Wells Fargo Women in Technology Intern Virtual Forum is an exclusive two-day program designed to encourage and inspire women who have an interest in pursuing a career in Technology. A select group of high-performing students from diverse backgrounds will be invited to participate. During the virtual forum, you will have the opportunity to learn from successful women in technology at Wells Fargo who will share their expertise and knowledge to help you become a future leader. | September |
 | Pinterest Engage | Unpaid. Pinterest Engage is an early identification program for freshman students enrolled in a bachelor’s degree program with a demonstrated interest in majoring in computer science. | January (?) |
 
-## CS conferences scholarships
+## CS conferences and scholarships
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Grace Hopper Scholarship](https://ghc.anitab.org) | The GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. | March |
+| [Google Conference Scholarships](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/) | While all qualified industry professionals and students are able to apply, we’ve designed our North American program to expose career opportunities to those who identify as historically excluded in tech. This includes those who identify as Women, Black/African American/Caribbean/WestIndies, Hispanic/Latinx, and Native American/First Nations. | June |
 | [Tapia Conference Scholarship](http://tapiaconference.org) | The Tapia Conference provides conference travel scholarships for students (community college/undergraduate/graduate), and post-docs at colleges/universities in the U.S and U.S. Scholarships include conference registration, meals during the conference, hotel accommodations, and a reimbursable travel stipend. | March |
 | [Greylock Techfair](https://greylock.com/university-programs/) | Techfair is not an ordinary career fair. Rather, it’s your opportunity to connect with engineers, product leaders, and designers at the fastest-growing startups in Silicon Valley. Students have the opportunity to ask questions directly to potential teammates and learn about what makes each company unique. Techfair helps you create career connections, regardless of whether you’re looking for internships or full-time opportunities. Startup, invite only. | Summer |
+| [RTC Career Summit](https://rewritingthecode.org/rtc-career-summit/) | As part of our community you will have access to hear directly from companies about their open roles through virtual events and booths, all for a nominal fee ($15 or essay). | August |
 
 ## Coding interview resources
 
@@ -108,7 +112,7 @@ All of the programs are all expenses paid.
 | [Rewriting the Code](https://rewritingthecode.org/fellowship/) | The Rewriting the Code Fellowship Program is for women undergraduates and masters level students studying computer science and engineering related majors who are interested in gaining applied experience through potential internships or full-time jobs with leading tech companies. | April |
 | [Code 2040 Early Career Accelerator](http://www.code2040.org/early-career-accelerator-program) | Participants will receive socio-emotional, professional, and management development through in-person workshops, mentorship and coaching, and online engagement. In this program, we’ll build community, make space to commiserate, and most importantly, find tactical solutions to the professional and cultural roadblocks we face in the workplace. | September |
 | [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores, US citizens only | October |
-| [Uber Career Prep Fellows Program](https://www.uber.com/global/en/careers/list/65560/?fbclid=IwAR0DjVE3b5CFqFQIfdGceFoZZzdECN366AllopUwpciykdbA_bz5bZtEv7M) |As a Career Prep Fellow, Uber will help you take your skills to the next level in partnership with experts in the field. This year-long program will consist of five virtual workshops. Topics will vary for each session covering a range of competencies such as: technical interview skills, insights into how top engineers succeed, communication and self-marketing skills, engineering competencies, and so much more. | December |
+| [Uber Career Prep Fellows Program](https://www.uber.com/global/en/careers/list/65560/?fbclid=IwAR0DjVE3b5CFqFQIfdGceFoZZzdECN366AllopUwpciykdbA_bz5bZtEv7M) |As a Career Prep Fellow, Uber will help you take your skills to the next level in partnership with experts in the field. This year-long program will consist of five virtual workshops. Topics will vary for each session covering a range of competencies such as: technical interview skills, insights into how top engineers succeed, communication and self-marketing skills, engineering competencies, and so much more. You do 5 mock interviews with Uber engineers and in July interview for Uber SWE internship or full time. | December |
 
 ## CS Scholarships
 
