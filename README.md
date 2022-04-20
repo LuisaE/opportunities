@@ -45,7 +45,7 @@ Not a freshman or sohpomore? Check this: [Summer 2022 CS Internships](https://gi
 | --- | --- | --- |
 | [MLH Fellowship](https://fellowship.mlh.io) | The MLH Fellowship is a 12-week internship alternative for aspiring software engineers. Our programs pair fun, educational curriculum with practical experience that you can put on your resume right away. It's collaborative, remote, and happens under the guidance of expert mentors. Explorer, Open Source and Externship. Stipend available. Application review, 10 minute behavioral interview and 15 minute technical interview. | Winter, Spring, Fall | 
 | [Google Summer of Code](https://summerofcode.withgoogle.com) | Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project during their break from school. | April | 
-| [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| **Invitation only** (ask a recruiter) |
+| [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| March |
 
 
 ## CS exploratory and diversity programs
@@ -128,6 +128,7 @@ All of the programs are all expenses paid.
 | [Palantir Future Scholarship](https://www.palantir.com/students/scholarship/future/) | This year, 10 scholarship recipients will be chosen and invited to visit our headquarters in Palo Alto for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded grants of $7,000 to support their education. | March | 
 | [Palantir Women in Tech Scholarship ](https://www.palantir.com/students/scholarship/wit-north-america/) | This year, 10 scholarship recipients will be chosen and invited to visit our Washington, D.C. office for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded $7,000 to support their education. | March | 
 | [Quip Diversity Scholarship](https://quip.com/blog/2020-quip-diversity-scholarship) | The Quip team will review applications, choose winners and runners-up, and then invite them to a full day of learning and mentorship.* Each scholarship winner will receive $5,000 and each runner-up will receive $1,000 toward their education. | June |
+| [VMware Scholarships](https://careers.vmware.com/scholarships) | The VMware Achieve Scholarship offers a one-time monetary award up to $10,000 USD for tuition and fees to a woman studying at a university in the United States. The VMware Rise Scholarship offers a one-time monetary award of $5,000 USD for tuition and fees to two students coming from underrepresented communities in the United States. | May |
 
 ## CS Research
 
@@ -195,9 +196,10 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 1. Create a Linkedin and a GitHub and add some projects. 
 2. Read this resume guide and update your resume: [How to Write a Kickass Resume](https://docs.google.com/document/u/1/d/e/2PACX-1vQpvbP8lzPvZrNvrX58UlacpQiLgh1fBQYfOS2pEJZvp-zOb9uKQJYKSsDQ6mJWoPf3H09OmdrLDcaK/pub?fbclid=IwAR0HLo_mONStDfwLuDcYo2eexckwo5VKM2L4Lh5O4hcQnVfjUU5RrZJ-2bM) and [This is what a GOOD resume should look like](https://www.careercup.com/resume?fbclid=IwAR1FyQqS0pwgjRCnNgzLNO70ndWAp9Ok9jQScMAyJxVtqK3_NOimNV9fmWY)
 3. Go to the career center and ask them to check your resume, or ask someone you know to check it for you. 
-4. Get a CS related student job, there are some at Carleton! Examples: CS TA and grader, Data Squad, Web Services Student Developer, Academic Technology and ITS student worker, digital humanities intern...
-5. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
-6. If you don't want to purchase one of the resources (say, leetcode) yourself, you can always get a group of friends together and split the cost. This will also help you keep each other accountable. 
-7. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
-8. Want to know what's an SWE intern's salary at big tech companies? Check [Levels.fyi](https://www.levels.fyi/internships/?track=Software%20Engineer)
+4. Get a CS related student job, there are some at Carleton! Examples: CS TA and grader, Data Squad, Web Services Student Developer, Academic Technology and ITS student worker, digital humanities intern... 
+5. You can also get a part-time internship! Some companies that offer part-time internships are Warner Bros. Discovery, Fox News, Box, Wix, The Home Depot, HPE, and IBM.
+6. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
+7. If you don't want to purchase one of the resources (say, leetcode) yourself, you can always get a group of friends together and split the cost. This will also help you keep each other accountable. 
+8. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
+9. Want to know what's an SWE intern's salary at big tech companies? Check [Levels.fyi](https://www.levels.fyi/internships/?track=Software%20Engineer)
 
