@@ -17,6 +17,11 @@ Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](
  * [Bonus: Resume + Tips](#bonus-resume-and-tips)
 
 
+## [getting-tech-internship](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) guide
+
+[This document](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) is written and reviewed by Carleton students (class of 2022 and 2023) as a guide for other Carleton students on finding tech internships (or new grad positions). Our contacts are listed at the end of the document. 
+
+
 ## CS underclassmen and diversity internships
 
 Not a freshman or sohpomore? Check this: [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships)
