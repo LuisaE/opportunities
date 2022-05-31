@@ -1,7 +1,7 @@
 # Opportunities
 List of CS and Finance exploratory/diversity programs, underclassmen internships, interview prep and, mentorship programs. Given the COVID-19 situation, is it possible that some of those opportunities will not be available anymore or will be changed to a virtual format. 
 **Double check the deadlines!**
-Most of the opportunities listed are for students **underrepresented (in tech)** who are sophomores, freshman, or juniors (just a couple). For regular SWE internships go to [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships). 
+Most of the opportunities listed are for students **underrepresented (in tech)** who are sophomores, freshman, or juniors (just a couple). For regular SWE internships go to [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships) or [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships). 
 
 Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](https://employers.ocs.fas.harvard.edu/calendar) or [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
@@ -24,7 +24,7 @@ Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](
 
 ## CS underclassmen and diversity internships
 
-Not a freshman or sohpomore? Check this: [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships)
+Not a freshman or sohpomore? Check this: [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships) or [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships)
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
