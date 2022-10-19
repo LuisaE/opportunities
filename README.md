@@ -5,21 +5,21 @@ Most of the opportunities listed are for students who are sophomores, freshman, 
 
 Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
- * [CS underclassmen/diversity internships](#cs-underclassmen-and-diversity-internships)
+ * [CS underclassmen internships](#cs-underclassmen-internships)
  * [CS internship alternative](#cs-internship-alternative)
- * [CS exploratory/diversity programs](#cs-exploratory-and-diversity-programs)
+ * [CS exploratory programs](#cs-exploratory-programs)
  * [CS conferences and scholarships](#cs-conferences-and-scholarships)
  * [Coding interview resources](#coding-interview-resources)
  * [CS Mentorship](#cs-mentorship)
  * [CS Scholarships](#cs-scholarships)
  * [CS Research](#cs-research)
- * [Finance+ exploratory/diversity programs](#finance-and-consulting-exploratory-and-diversity-programs)
+ * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
  * [Bonus: Resume + Tips](#bonus-resume-and-tips)
 
 
 ## [getting-tech-internship](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) guide
 
-[This document](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) is written and reviewed by Carleton students (class of 2022 and 2023) as a guide for other Carleton students on finding tech internships (or new grad positions). Our contacts are listed at the end of the document. 
+[This document](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) is written and reviewed by Carleton College students (class of 2022 and 2023) as a guide for other Carleton students on finding tech internships (or new grad positions). Our contacts are listed at the end of the document. 
 
 
 ## CS underclassmen internships
