@@ -1,9 +1,9 @@
 # Opportunities
 List of CS and Finance exploratory/diversity programs, underclassmen internships, interview prep and, mentorship programs. Given the COVID-19 situation, is it possible that some of those opportunities will not be available anymore or will be changed to a virtual format. 
 **Double check the deadlines!**
-Most of the opportunities listed are for students **underrepresented (in tech)** who are sophomores, freshman, or juniors (just a couple). For regular SWE internships go to [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships) or [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships). 
+Most of the opportunities listed are for students who are sophomores, freshman, or juniors (just a couple). For regular SWE internships go to [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships). 
 
-Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](https://employers.ocs.fas.harvard.edu/calendar) or [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
+Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
  * [CS underclassmen/diversity internships](#cs-underclassmen-and-diversity-internships)
  * [CS internship alternative](#cs-internship-alternative)
@@ -22,9 +22,9 @@ Want more opportunities and deadlines? Check [Harvard's Career Center Calendar](
 [This document](https://docs.google.com/document/d/1-1TU9Ah2JsMuwQjGMCJO_g50m5IWbFf4BECdYsgn09Q/edit?usp=sharing) is written and reviewed by Carleton students (class of 2022 and 2023) as a guide for other Carleton students on finding tech internships (or new grad positions). Our contacts are listed at the end of the document. 
 
 
-## CS underclassmen and diversity internships
+## CS underclassmen internships
 
-Not a freshman or sohpomore? Check this: [Summer 2022 CS Internships](https://github.com/pittcsc/Summer2022-Internships) or [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships)
+Not a freshman or sohpomore? Check this: [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships)
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -54,13 +54,12 @@ Not a freshman or sohpomore? Check this: [Summer 2022 CS Internships](https://gi
 | [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| March |
 
 
-## CS exploratory and diversity programs
+## CS exploratory programs
 All of the programs are all expenses paid. 
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows) | A Bessemer Fellow is a special appointment for high-performing students interested in engineering, product, or data science within the Bessemer portfolio. We accept students who have demonstrated excellence in their academic or professional pursuits and have a deep passion for entrepreneurship and innovation. | July |
-| [Goldman Sachs Engineering Possibilities Summit](https://www.goldmansachs.com/careers/students/programs/americas/exploratory-programs.html) | Engineering Essentials is a four day program designed to help current college sophomores develop the essentials skills and tools to prepare for a successful career as a software engineer. Application and HackerRank. | November |
 | [Empower - Sophomore Associate Product Manager Summit](https://www.uberapms.com/empower-summit?fbclid=IwAR3EFXXjfqNGcqORLHUb1cNOlm9mZLqT7JMjV23xOnIoMwi5__mIJUjEg3Q) | This free, multi-day seminar for Sophomores is an introduction to Product Management and the tech industry. Empower is open to all majors, and provides students with skills to succeed as a Product Manager, mentors to guide their development and journey, and a community to connect them to a group of ambitious students. | July |
 | [Capital One Software Engineer Summit](https://campus.capitalone.com/summits/) | During this one-week program, a small, exceptional group of freshmen and sophomores will be immersed in our startup-minded and innovative culture while exploring and developing the technology and problem-solving skills valued by today’s top employers. If chosen for this highly selective program, you’ll take part in technical and soft-skill training sessions. | **Invitation only** (ask a recruiter) |
 | [HRT Women in Trading Technology Internship - Jan](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3534845) | An informative 4 week exploration into automated trading. The goal of this program is to give Freshmen and Sophomores who don’t currently have exposure into our industry and insight into who we are and what we do. | November |
@@ -120,15 +119,13 @@ All of the programs are all expenses paid.
 | [Rewriting the Code](https://rewritingthecode.org/fellowship/) | The Rewriting the Code Fellowship Program is for women undergraduates and masters level students studying computer science and engineering related majors who are interested in gaining applied experience through potential internships or full-time jobs with leading tech companies. | April |
 | [Code 2040 Early Career Accelerator](http://www.code2040.org/early-career-accelerator-program) | Participants will receive socio-emotional, professional, and management development through in-person workshops, mentorship and coaching, and online engagement. In this program, we’ll build community, make space to commiserate, and most importantly, find tactical solutions to the professional and cultural roadblocks we face in the workplace. | September |
 | [Management Leadership for Tomorrow Career Prep SWE Track](https://mlt.org/career-prep/) | Career Prep is a rigorous, 18-month career development program for emerging leaders. Through the program, Fellows explore their strengths, passions, and interests in order to prepare and plan for successful careers in business and tech. Sophomores, US citizens only | October |
-| [Uber Career Prep Fellows Program](https://www.hiddengeniusproject.org/ubercareerprep/) |As a Career Prep Fellow, Uber will help you take your skills to the next level in partnership with experts in the field. This year-long program will consist of five virtual workshops. Topics will vary for each session covering a range of competencies such as: technical interview skills, insights into how top engineers succeed, communication and self-marketing skills, engineering competencies, and so much more. You do 5 mock interviews with Uber engineers and in July interview for Uber SWE internship or full time. | December |
+| [Uber Career Prep Fellows Program](https://www.hiddengeniusproject.org/ubercareerprep/) |As a Career Prep Fellow, Uber will help you take your skills to the next level in partnership with experts in the field. This year-long program will consist of five virtual workshops. Topics will vary for each session covering a range of competencies such as: technical interview skills, insights into how top engineers succeed, communication and self-marketing skills, engineering competencies, and so much more. You do 5 mock interviews with Uber engineers and in July interview for Uber SWE internship or full time. | November |
 
 ## CS Scholarships
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
-| [Microsoft Tuition Scholarship](https://careers.microsoft.com/students/us/en/usscholarshipprogram) | Microsoft awards tuition and conference scholarships each year to encourage students to further their learnings in Computer Science and related STEM (Science, Technology, Engineering, and Math) disciplines. Recipients for the scholarship will be awarded in recognition of their demonstrated passion for technology, academic excellence, and leadership while working to push the software industry forward. | Summer |
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/) | Selected students will receive 10,000 USD (for those studying in the US). Scholarships will be awarded based on the strength of each candidate's impact on diversity, demonstrated leadership, and academic background. | Fall |
-| [Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the tech industry by encouraging women to excel as active participants and leaders in the field. | Fall |
 | Apple Scholars Program - RTC | $15,000 scholarship, technology package worth $2,000, travel stipend to attend an immersion event at Apple Park in California. | December |
 | [Activision Blizzard King Aspiring Women* in Games Scholarship](https://careers.activisionblizzard.com/abkaspiringwomen) | This scholarship will give you the opportunity to virtually attend the 2021 Game Developers Conference (GDC). By securing this scholarship you also will receive: passes to attend GDC with us, exclusive networking, learning and development opportunities and technology equipment to enhance your studies! Application review and interview. | November |
 | [Palantir Future Scholarship](https://www.palantir.com/students/scholarship/future/) | This year, 10 scholarship recipients will be chosen and invited to visit our headquarters in Palo Alto for a full-day, all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts with our engineers, and some fun social activities! All recipients are awarded grants of $7,000 to support their education. | March | 
@@ -151,7 +148,7 @@ All of the programs are all expenses paid.
 | --- | --- | --- |
 | [Campus Visitations Grad School](https://mcnairscholars.com/campus-visitations/) | Many graduate schools offer visitation events.  These events may be paid for by the institution and offer a variety of services to assist students in applying for graduate programs. | Check the website |
 
-## Finance and consulting exploratory and diversity programs
+## Finance and consulting exploratory programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
 
 | Name | Description | Approximate Deadline |
