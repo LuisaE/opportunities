@@ -55,6 +55,18 @@ Not a freshman or sohpomore? Check this: [Summer 2023 CS Internships](https://gi
 | [Google Summer of Code](https://summerofcode.withgoogle.com) | Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project during their break from school. | April | 
 | [Google Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) | Google's Software Product Sprint brings together university students and Googlers for 11 weeks of virtual programming and community building. The program’s mission is to build a network of support in order to increase representation in tech. Software Product Sprint students design and build web apps, gain applied Data Structures and Algorithm skills, and receive tailored career development resources.| March |
 
+## Part-time internships
+
+You can intern while doing school full time. All are paid internships and you can use part-time CPT if international student.
+
+| Name | Description | Approximate Deadline |
+| --- | --- | --- |
+| [NBCUniversal](https://www.nbcunicareers.com/internships) | The NBCUniversal Internship Program allows students to unlock their potential by contributing to big projects in meaningful ways that matter. To thrive as an NBCU intern, you are someone who is ready to bring their passion for media, entertainment, and technology along with their desire to learn each day. Part time: Fall and Spring, 16 - 24 h/week. SWE and other engineering roles | 3 months before each season | 
+| [The Home Depot](https://careers.homedepot.com/students-internships/) | The Home Depot Internship Program is an award-winning paid 11-week internship. Our interns are challenged to complete valuable and immersive projects that directly impact the business and are part of fast-paced teams with ample opportunity to grow. Our interns are equipped with tools to establish the building blocks for their career and revolutionize the future of retail. | A couple month before each season |
+| [Fox](https://www.foxcareers.com/Students/) | FOX offers internships each year within all of our brands, including various divisions and departments including News, Sports and Entertainment. | A couple month before each season |
+| [Pandora](https://www.pandora.com/careers/) | SiriusXM and Pandora have joined together to create the leading audio entertainment company in the U.S. Together, we are uniquely positioned to lead a new era of audio entertainment by delivering the most compelling subscription and ad-supported audio experiences to millions of listeners – in the car, at home and on the go.  | Check the website |
+| [Warner Bros Discovery](https://careers.wbd.com/global/en/internship-opportunities) | You provide the motivation, the will and the work ethic; we’ll provide the career opportunities and access you need to get going. Intern with us and you'll gain hands-on industry experience working alongside the best in entertainment, news and sports. Your ideas and insights really can make an impact here. | 2ish months before each season |
+
 
 ## CS exploratory programs
 All of the programs are all expenses paid. 
