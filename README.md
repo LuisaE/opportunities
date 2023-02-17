@@ -146,6 +146,7 @@ All of the programs are all expenses paid.
 | [VMware Scholarships](https://careers.vmware.com/scholarships) | The VMware Achieve Scholarship offers a one-time monetary award up to $10,000 USD for tuition and fees to a woman studying at a university in the United States. The VMware Rise Scholarship offers a one-time monetary award of $5,000 USD for tuition and fees to two students coming from underrepresented communities in the United States. | May |
 | [Adobe Research Women-in-Technology Scholarship](https://research.adobe.com/scholarship/) | The Adobe Research Women-in-Technology Scholarship recognizes outstanding female undergraduate and master’s students studying artificial intelligence/machine learning, data science, computer science or mobile/web development at North American universities (including Canada and Mexico). | Not sure |
 | [Two Sigma Undergraduate Scholarship](https://www.twosigma.com/community/academic-partnerships/undergraduate/scholarships/) | Two Sigma's Undergraduate Scholarship is open to all undergraduate students who are expanding frontiers in a STEM field such as statistics, applied mathematics, computer science, and physics. | November | 
+| [Apple Pathways Academy](https://programs.applyists.com/applepathwaysacademy/) | The Apple Pathways Academy is a community of learning and discovery targeting high-performing Black, Hispanic/Latinx, and Indigenous sophomores majoring in computer science and engineering. Current sophomores, 15k/year. | Feb |
 
 ## CS Research
 
