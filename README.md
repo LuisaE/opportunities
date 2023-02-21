@@ -8,6 +8,7 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
  * [CS underclassmen internships](#cs-underclassmen-internships)
  * [CS internship alternative](#cs-internship-alternative)
  * [Part-time internships](#part-time-internships)
+ * [For rising seniors and seniors](#for-rising-seniors-and-seniors)
  * [CS exploratory programs](#cs-exploratory-programs)
  * [CS conferences and scholarships](#cs-conferences-and-scholarships)
  * [Coding interview resources](#coding-interview-resources)
@@ -68,6 +69,15 @@ You can intern while doing school full time. All are paid internships and you ca
 | [Pandora](https://www.pandora.com/careers/) | SiriusXM and Pandora have joined together to create the leading audio entertainment company in the U.S. Together, we are uniquely positioned to lead a new era of audio entertainment by delivering the most compelling subscription and ad-supported audio experiences to millions of listeners – in the car, at home and on the go.  | Check the website |
 | [Warner Bros Discovery](https://careers.wbd.com/global/en/internship-opportunities) | You provide the motivation, the will and the work ethic; we’ll provide the career opportunities and access you need to get going. Intern with us and you'll gain hands-on industry experience working alongside the best in entertainment, news and sports. Your ideas and insights really can make an impact here. | 2ish months before each season |
 
+
+## For rising seniors and seniors
+
+| Name | Description | Approximate Deadline |
+| --- | --- | --- |
+| [Snap Up Apprentice](https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2023-Software-Engineer--Snap-Up-Apprentice_R0029712-1) | We’re looking for Apprentices to join an Engineering program at Snap Inc. called Snap Up. Snap Up is a full time 11 month engineering rotational program created by Snap to provide career development opportunities to new graduates with limited or no technical software engineering work experience. | February |
+| [Netflix Formation program](https://formation.dev/partners/netflix) | Netflix has teamed up with Formation to bring rising seniors personalized training and world-class mentorship from the best engineers in the tech industry. This is a free program, and participants who demonstrate exceptional technical ability have the opportunity to interview for a SWE New Grad role at Netflix. | March |
+| [Meta AI residency](https://ai.facebook.com/join-us/residency-program/) | The Artificial Intelligence (AI) Residency Program is a one-year research training position designed to give you hands-on experience with artificial intelligence research while working in Meta AI. This program is ideal for those interested in applying to PhD programs, publishing research papers, and maximizing their experience before applying or attending a graduate program in the designated field. | January |
+| [AI Residency List](https://github.com/dangkhoasdc/awesome-ai-residency)| Repo with AI programs | N/A |
 
 ## CS exploratory programs
 All of the programs are all expenses paid. 
