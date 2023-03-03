@@ -1,7 +1,8 @@
 # Opportunities
-List of CS and Finance exploratory/diversity programs, underclassmen internships, interview prep and, mentorship programs. Given the COVID-19 situation, is it possible that some of those opportunities will not be available anymore or will be changed to a virtual format. 
+List of CS underclassmen internships, part-time internships, exploratory programs, scholarships, interview prep, and mentorship programs. It is possible that some of those opportunities are not available anymore. 
 **Double check the deadlines!**
-Most of the opportunities listed are for students who are sophomores, freshman, or juniors (just a couple). For regular SWE internships go to [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships). 
+
+For Summer SWE internships go to [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships). 
 
 Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
