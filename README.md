@@ -175,6 +175,8 @@ All of the programs are all expenses paid.
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Harvey Mudd College Department of Computer Science](https://www.hmc.edu/cs/research/reu/) | The program is open to US citizens and permanent residents who are enrolled in undergraduate degree programs. All qualifying students are welcome! Both we at HMC and the NSF invest in building diversity in CS. Both encourage members of groups traditionally underrepresented in postsecondary CS to apply. The program involves a total of 10 students working with faculty members at Harvey Mudd for 10 weeks over the summer. Students will receive a summer stipend, as well as on-campus housing and meals at no cost. | March |
+| [NSF website](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049) | Listing of opportunities for Computer and Information Science and Engineering REU sites | Check the website |
+| [NCAR](https://www2.cisl.ucar.edu/outreach/internships) | Summer Internships in Parallel Computational Science (SIParCS) embed students in CISL to provide them with significant hands-on experience in high-performance computing and related fields that use HPC for scientific discovery and modeling. | ? |
 
 ## Other stuff
 
@@ -224,6 +226,7 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 | Boing BASE |BASE brings together diverse students from across the United States and immerses them in the world of aerospace. BASE is designed for rising college junior students to engage, explore, and enrich themselves personally and professionally. Selected students will receive all-expenses-paid lodging, meals and travel to their site of selection. |  |
 | [Blackrock Find Your Future Forum - Tech](https://blackrock.tal.net/vx/mobile-1/brand-3/candidate/so/pm/1/pl/2/opp/3806-2020-Find-Your-Future-Forum/en-GB) | Learn how to jump start your career at BlackRock’s one-day educational program for college sophomores. | February |
 | [Blackstone Future Women Innovators Program](https://www.blackstone.com/careers/diversity-inclusion) | Blackstone’s Future Women Innovators Program is a unique 1.5 day program for software developers, giving participants early exposure to technology and business through interactive information seminars, networking, and skill-building sessions. Program participants will have the opportunity to interact with technologists and recruiting professionals at Blackstone in New York. The Blackstone Future Women Innovators Program introduces the knowledge, training, and skills necessary for a well-guided career path in technology. | January |
+| [The Advancing Black Pathways Fellowship Program](https://www.jpmorganchase.com/impact/people/advancing-black-pathways/fellowship-program) | The Advancing Black Pathways (ABP) Fellowship Program offers a six-week paid; full-time summer fellowship held in select JPMorgan Chase offices. The ABP Fellowship Program is designed to attract undergraduate sophomores who are interested in early exposure to financial services careers and committed to the advancement of individuals from underrepresented groups in this industry. | March |
 
 ## Bonus: Resume and Tips
 
