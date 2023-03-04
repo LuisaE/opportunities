@@ -189,6 +189,7 @@ All of the programs are all expenses paid.
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Campus Visitations Grad School](https://mcnairscholars.com/campus-visitations/) | Many graduate schools offer visitation events.  These events may be paid for by the institution and offer a variety of services to assist students in applying for graduate programs. | Check the website |
+| [CS PhD Applications fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers) | Repo of CS PhD Application Fee Waivers of schools in North America | N/A |
 
 ## Finance and consulting exploratory programs
 All of the programs are all expenses paid. Most of those programs have GPA requirments of 3.0+ or 3.5+. 
