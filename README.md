@@ -16,6 +16,7 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
  * [CS Mentorship](#cs-mentorship)
  * [CS Scholarships](#cs-scholarships)
  * [CS Research](#cs-research)
+ * [CS REU](#cs-research-experience-undergraduates-reu)
  * [Finance+ exploratory programs](#finance-and-consulting-exploratory-programs)
  * [Bonus: Resume + Tips](#bonus-resume-and-tips)
 
@@ -173,6 +174,7 @@ All of the programs are all expenses paid.
 | [Undergrad Architecture Mentoring (uArch) Workshop](https://sites.google.com/wisc.edu/5thuarchworkshop/) | The Undergraduate Architecture Mentoring (uArch) Workshop is designed to introduce undergraduate and early Master's students to research and career opportunities in the field of computer architecture in particular and graduate school lifestyle and survival skills in general. | March |
 
 ## CS Research Experience Undergraduates (REU)
+
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
 | [Harvey Mudd College Department of Computer Science](https://www.hmc.edu/cs/research/reu/) | The program is open to US citizens and permanent residents who are enrolled in undergraduate degree programs. All qualifying students are welcome! Both we at HMC and the NSF invest in building diversity in CS. Both encourage members of groups traditionally underrepresented in postsecondary CS to apply. The program involves a total of 10 students working with faculty members at Harvey Mudd for 10 weeks over the summer. Students will receive a summer stipend, as well as on-campus housing and meals at no cost. | March |
