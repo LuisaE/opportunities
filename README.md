@@ -86,6 +86,8 @@ You can intern while doing school full time. All are paid internships and you ca
 | [Netflix Formation program](https://formation.dev/partners/netflix) | Netflix has teamed up with Formation to bring rising seniors personalized training and world-class mentorship from the best engineers in the tech industry. This is a free program, and participants who demonstrate exceptional technical ability have the opportunity to interview for a SWE New Grad role at Netflix. | March |
 | [Meta AI residency](https://ai.facebook.com/join-us/residency-program/) | The Artificial Intelligence (AI) Residency Program is a one-year research training position designed to give you hands-on experience with artificial intelligence research while working in Meta AI. This program is ideal for those interested in applying to PhD programs, publishing research papers, and maximizing their experience before applying or attending a graduate program in the designated field. | January |
 | [AI Residency List](https://github.com/dangkhoasdc/awesome-ai-residency)| Repo with AI programs | N/A |
+| [Jane Street Internships](https://www.janestreet.com/join-jane-street/programs-and-events/internships-all-cycles/) | They have some internships for graduating seniors, and you can join full time right after | Fall - Winter |
+| [Spotify](https://www.lifeatspotify.com/students?l=remote-americas&l=new-york&j=internship&j=early-career-program) | They accept graduating seniors for most of their internships | March | 
 
 ## CS exploratory programs
 All of the programs are all expenses paid. 
