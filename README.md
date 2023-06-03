@@ -1,5 +1,5 @@
 # Opportunities
-List of CS underclassmen internships, part-time internships, exploratory programs, scholarships, interview prep, and mentorship programs. It is possible that some of those opportunities are not available anymore. 
+List of CS underclassmen internships, part-time internships, exploratory programs, scholarships, interview prep, and mentorship programs. It is possible that some of those opportunities are not available anymore, or the deadlines are completely wrong. 
 **Double check the deadlines!**
 
 For Summer SWE internships go to [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships). 
@@ -28,7 +28,7 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
 
 ## CS underclassmen internships
 
-Not a freshman or sohpomore? Check this: [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships)
+Not a freshman or sophomore? Check this: [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships)
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
@@ -255,11 +255,10 @@ All of the programs are all expenses paid. Most of those programs have GPA requi
 4. Get a CS related student job, there are some at Carleton! Examples: CS TA and grader, Data Squad, Web Services Student Developer, Academic Technology and ITS student worker, digital humanities intern... 
 5. You can also get a part-time internship! Some companies that offer part-time internships are Warner Bros. Discovery (HBO Max, ...), Fox News, Box, Wix, The Home Depot, HPE, Intel, NBC Universal, Wall Street Journal, Proofpoint, Crowdstrike, and IBM. Those are usually 16-24h/week that you do while taking classes full time (I recommend taking only 12-14 credits). 
 6. Ask for referrals if you know someone that works for the company that you are applying - more likely to get an interview. There is a list with Alumni willing to refer Carleton students.  
-7. If you don't want to purchase one of the resources (say, leetcode) yourself, you can always get a group of friends together and split the cost. This will also help you keep each other accountable. 
-8. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
-9. Want to know what's an SWE intern's salary at big tech companies? Check [Levels.fyi](https://www.levels.fyi/internships/?track=Software%20Engineer)
-10. Do personal projects to learn new things. You can also add some class projects to your resume. Some classes with substantial programming projects: Comps (CS 399 & 400), Operating Systems (CS 332), Database Systems (CS 334), Prog Lang (CS 251 Scheme interpreter), Computer Graphics (CS 311), AI (CS 321, final project), Artificial Life (CS 361). I have also seen people using stuff from Software Design (CS 257) or Data Science (STAT 220) (however, those projects are considered pretty basic).  
-11. You can find more stuff in [LinkedIn](https://www.linkedin.com/), [Handshake](https://app.joinhandshake.com/stu), [CS Opportunities Twitter account](https://twitter.com/cs_opp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [r/csMajors](https://www.reddit.com/r/csMajors/), [Blind](https://www.teamblind.com). 
-12. Don't be afraid of rejection; it's part of the process! If you don't apply, then you definitely are not getting in, but if you do, there's a nonzero chance. 
-13. Bad at Leetcode? Here's a list of companies that don't do "whiteboard" interviews [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+7. Mock interviews with friends or online using a tool like Pramp is a great way to get a real life technical interview experience. 
+8. Want to know what's an SWE intern's salary at big tech companies? Check [Levels.fyi](https://www.levels.fyi/internships/?track=Software%20Engineer)
+9. Do personal projects to learn new things. You can also add some class projects to your resume. Some classes with substantial programming projects: Comps (CS 399 & 400), Operating Systems (CS 332), Database Systems (CS 334), Prog Lang (CS 251 Scheme interpreter), Computer Graphics (CS 311), AI (CS 321, final project), Artificial Life (CS 361). I have also seen people using stuff from Software Design (CS 257) or Data Science (STAT 220) (however, those projects are considered pretty basic).  
+10. You can find more stuff in [LinkedIn](https://www.linkedin.com/), [Handshake](https://app.joinhandshake.com/stu), [CS Opportunities Twitter account](https://twitter.com/cs_opp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [r/csMajors](https://www.reddit.com/r/csMajors/), [Blind](https://www.teamblind.com). 
+11. Don't be afraid of rejection; it's part of the process! If you don't apply, then you definitely are not getting in, but if you do, there's a nonzero chance. 
+12. Bad at Leetcode? Here's a list of companies that don't do "whiteboard" interviews [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
