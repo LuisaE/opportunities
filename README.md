@@ -91,6 +91,7 @@ You can intern while doing school full time. All are paid internships and you ca
 | [AI Residency List](https://github.com/dangkhoasdc/awesome-ai-residency)| Repo with AI programs | N/A |
 | [Jane Street Internships](https://www.janestreet.com/join-jane-street/programs-and-events/internships-all-cycles/) | They have some internships for graduating seniors, and you can join full time right after | Fall - Winter |
 | [Spotify](https://www.lifeatspotify.com/students?l=remote-americas&l=new-york&j=internship&j=early-career-program) | They accept graduating seniors for most of their internships | March | 
+| [Kwantx](https://www.kwantx.com/fellowship) | Kwantx offers part time and full time fellowships in the fields of investment analysis, quantitative research, and software engineering | Not Sure |
 
 ## CS fellowships
 
