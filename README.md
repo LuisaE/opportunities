@@ -2,7 +2,7 @@
 List of CS underclassmen internships, part-time internships, exploratory programs, scholarships, interview prep, and mentorship programs. It is possible that some of those opportunities are not available anymore, or the deadlines are completely wrong. 
 **Double check the deadlines!**
 
-For Summer SWE internships go to [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships). 
+For Summer SWE internships go to [Summer 2024 CS Internships](https://github.com/pittcsc/Summer2024-Internships). 
 
 Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
@@ -28,7 +28,7 @@ Want more opportunities and deadlines? Check [Carleton's Career Center Calendar]
 
 ## CS underclassmen internships
 
-Not a freshman or sophomore? Check this: [Summer 2023 CS Internships](https://github.com/pittcsc/Summer2023-Internships)
+Not a freshman or sophomore? Check this: [Summer 2024 CS Internships](https://github.com/pittcsc/Summer2024-Internships)
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
