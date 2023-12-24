@@ -99,6 +99,7 @@ You can intern while doing school full time. All are paid internships and you ca
 | [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows) | A Bessemer Fellow is a special appointment for high-performing students interested in engineering, product, or data science within the Bessemer portfolio. We accept students who have demonstrated excellence in their academic or professional pursuits and have a deep passion for entrepreneurship and innovation. | July |
 | [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com) | The KPCB fellowship program gives college students a chance to intern at one of its portfolio companies. Gain deep technical skills while being mentored by an executive. Unique curriculum which include founder speaker series, entrepreneurial workshops, and community building events | Jan |
 | [8VC Fellowships](https://www.8vc.com/fellowships) | The 8VC Fellowship is a unique, immersive, three-month internship program that places undergraduate students in contributing roles at some of the world's most innovative startups. | | 
+| [thrivecap Fellows](https://fellows.thrivecap.com) | In this inaugural class, the Thrive Summer Fellowship will provide a select group of rising college juniors with an 8-week paid internship, a stipend to offset education costs, and exclusive access to the Thrive team and portfolio organizations. | February |
 
 ## CS exploratory programs
 All of the programs are all expenses paid. 
