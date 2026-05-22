@@ -91,6 +91,7 @@ You can intern while doing school full time. All are paid internships and you ca
 | [AI Residency List](https://github.com/dangkhoasdc/awesome-ai-residency)| Repo with AI programs | N/A |
 | [Jane Street Internships](https://www.janestreet.com/join-jane-street/programs-and-events/internships-all-cycles/) | They have some internships for graduating seniors, and you can join full time right after | Fall - Winter |
 | [Spotify](https://www.lifeatspotify.com/students?l=remote-americas&l=new-york&j=internship&j=early-career-program) | They accept graduating seniors for most of their internships | March | 
+| [Hanzilla Jobs - Canada new grad roles](https://jobs.hanzilla.co/new-grad/) | Daily-updated Canadian student/recent-grad job board for new grad, junior, entry-level, internship, and co-op roles across software, data, finance, engineering, business, sciences, and more. Useful for students looking for Canada-specific early-career postings. | Rolling |
 
 ## CS fellowships
 
