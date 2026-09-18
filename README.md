@@ -68,7 +68,7 @@ Not a freshman or sophomore? Check this: [Summer 2027 CS Internships](https://gi
 
 ## Part-time internships
 
-You can intern while doing school full time. All are paid internships and you can use part-time CPT if international student.
+You can intern while doing school full time. All are paid internships.
 
 | Name | Description | Approximate Deadline |
 | --- | --- | --- |
