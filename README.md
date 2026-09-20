@@ -4,6 +4,8 @@ List of CS underclassmen internships, part-time internships, exploratory program
 
 For Summer SWE internships go to [Summer 2027 CS Internships](https://github.com/SimplifyJobs/Summer2027-Internships). 
 
+Canadian students can also check [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) for daily-updated Canadian internships, co-ops, new-grad, junior, and entry-level roles across tech, engineering, business, finance, sciences, arts, and other student-friendly fields.
+
 Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
  * [CS underclassmen internships](#cs-underclassmen-internships)
