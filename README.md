@@ -4,6 +4,8 @@ List of CS underclassmen internships, part-time internships, exploratory program
 
 For Summer SWE internships go to [Summer 2027 CS Internships](https://github.com/SimplifyJobs/Summer2027-Internships). 
 
+For Summer AI and ML internships go to [Summer 2027 AI Internships](https://github.com/landedjobs/summer-2027-ai-internships).
+
 Want more opportunities and deadlines? Check [Carleton's Career Center Calendar](https://apps.carleton.edu/career/about/events/)
 
  * [CS underclassmen internships](#cs-underclassmen-internships)
